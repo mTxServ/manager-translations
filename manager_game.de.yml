@@ -1,0 +1,101 @@
+menu:
+    config: Configure
+    console: Console
+    admin: Admins
+    widget: Widget
+    extend: Renew
+    help: Help
+    help_center: 'Help center'
+    support: Support
+    reinstall: Reinstall
+    dashboard: Dashboard
+    ftp: 'FTP Accounts'
+    files: Files
+    minelive: MineLive
+    minebackup: Backups
+    stats: Stats
+    fastdownload: FastDownload
+    tv: Replays
+    maps: Maps
+    hltv: HLTV
+    punkbuster: PunkBuster
+    sale: Order
+    tasks: Tasks
+    history: History
+    monitoring: Monitoring
+    mineversion: 'Minecraft version'
+    whitelist: WhiteList
+    mineop: Operators
+    minebanuser: 'Banned players'
+    minebanip: 'Banned IPs'
+    mineconfig: Parameters
+    srcdsmotd: 'Welcome message'
+    srcdsworkshop: Workshop
+    srcdsplugins: 'Plugins installation'
+    forum: Board
+    csgolivemap: 'Live Map'
+    srcds_fps: 'FPS server stats'
+    config_general: 'General config'
+    directory: 'Promote my server'
+    ebot: eBot
+    arkworkshop: Workshop
+console:
+    title: Console
+    auto: 'Auto scrolling'
+    execute: Execute
+    help: 'Enter a command to execute (ex : help)'
+    clear: Clear
+overview:
+    title: Overview
+    address: Address
+    game: Game
+    list: 'Players list'
+    player: Player(s)
+    widget:
+        map: Map
+        plugins: Plugins
+        version: Version
+        gametype: 'Game type'
+header:
+    expiration: 'Before expiration'
+    password: Password
+    player: Player(s)
+    offline: OFFLINE
+    day: days
+    ram: 'Memory (RAM)'
+    cpu: 'Processor (CPU)'
+    fps: 'FPS Server'
+confirm:
+    message: 'Are you sure to execute this action ?'
+    backup:
+        message: 'Are you sure to restore this backup ?'
+    map: 'Are you sure to install this map ?'
+list:
+    my_products: 'My products'
+actions:
+    update: Update
+    restart: Restart
+    restart_force: 'Force restart'
+    start: Start
+    stop: Stop
+    in_progress: 'Action in progress...'
+btn:
+    stop: Stop
+    start: Start
+    restart: Restart
+forums:
+    new: 'Need some help or just want to show your server to the community ? Our news forums are online.'
+    go: 'Go to the forums'
+csgo:
+    livemap:
+        brand1: 'Access to the 2D Live Map of your server.'
+        brand2: 'The Live Map allows you to follow on live the game of your server.'
+srcds:
+    workshop_disabled: 'You haven''t specified any valid API key for STEAM Community, the workshop is disabled.'
+    map_not_found: 'Warning: the starting map you have set doesn''t exist, your server may not be able to start. Please fix the starting map !'
+    need_update: 'You server needs to be updated. To do it, clic on the button ''Update''.'
+ddos:
+    in_progress: 'DDoS attack running...'
+    nothing: 'No DDoS attack'
+monitoring:
+    stop: 'Your server has been automatically shutdown by the monitoring due to constant CPU overload. Check your configuration/customization of the server to solve the problem.'
