@@ -6,7 +6,11 @@ This repository contains all translations used on [mTxServ.com](https://mtxserv.
 
 We're looking forward to get help on a little something. With your help, we will be able to translate the panel in every language possible!
 
-Feel free to contribute and submit your [pull request](https://github.com/mTxServ/manager-translations/pulls)!
+Feel free to add or edit translations in existing files, and submit your [pull request](https://github.com/mTxServ/manager-translations/pulls)!
+
+Language files do not need to be complete, but all should extend at least one other file - `manager_full.en.yaml` is the base.
+
+Updates to this repository will be integrated into mTxServ in the very next update: major, minor, or patch.
 
 ## How to contribute
 
