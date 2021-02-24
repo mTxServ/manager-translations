@@ -8,6 +8,13 @@ We're looking forward to get help on a little something. With your help, we will
 
 Feel free to contribute and submit your [pull request](https://github.com/mTxServ/manager-translations/pulls)!
 
+## How to contribute
+
+1. Checkout this repository
+2. Copy one of the language YAML already available (`manager_full.en.yaml`, ...)
+3. Replace the right side of the YAML key/value with the translated version of the string on the left.
+4. Create a Pull Request: `[Translation] {Language} translation created`
+
 ## Translation Progress
 
 - [ ] ar - Arabic
