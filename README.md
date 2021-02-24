@@ -8,7 +8,7 @@ We're looking forward to get help on a little something. With your help, we will
 
 Feel free to add or edit translations in existing files, and submit your [pull request](https://github.com/mTxServ/manager-translations/pulls)!
 
-Language files do not need to be complete, but all should extend at least one other file - `manager.en.yaml` and `manager_game.en.yaml` is the base.
+Language files do not need to be complete, but all should extend at least one other file - `manager.en.yaml` is the base.
 
 Updates to this repository will be integrated into mTxServ in the very next update: major, minor, or patch.
 
@@ -17,7 +17,7 @@ Thank you so much for helping out!
 ## How to contribute
 
 1. Checkout this repository
-2. If the file doesn't exist in the targetted language, copy one of the language YAML already available (`manager.en.yaml`, `manager_game.en.yaml`,).
+2. If the file doesn't exist in the targetted language, copy one of the language YAML already available (`manager.en.yaml`, ...).
 3. Replace the right side of the YAML key/value with the translated version of the string on the left.
 4. Create a Pull Request: `[Translation] {Language} translation created`
 
