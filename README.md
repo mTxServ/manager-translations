@@ -36,4 +36,6 @@ Thank you so much for helping out!
 # Contributors
 
 - [Seb](https://github.com/sdieunidou)
+- [Snk](https://github.com/snk33)
+- [Ludovic](https://github.com/notludovic)
 - Loganniere
