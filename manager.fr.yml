@@ -1,0 +1,1096 @@
+'Aller au dashboard': 'Aller à la console'
+'Félicitation, la configuration rapide de votre serveur est terminée !': 'Félicitation, la configuration rapide de votre serveur est terminée !'
+'Pour aller plus loin, notre base de connaissances, ainsi que notre forum d''entraide sont à votre disposition:': 'Pour aller plus loin, notre base de connaissances, ainsi que notre forum d''entraide sont à votre disposition:'
+'Tutoriels Garry''s Mod': 'Tutoriels Garry''s Mod'
+'Base de connaissances': 'Base de connaissances'
+'Tutoriels ARK': 'Tutoriels ARK'
+'Mods ARK': 'Mods ARK'
+'La fonction "Mettre à jour" effectue la mise à jour du serveur + la mise à jour de tous les mods actifs.': 'La fonction "Mettre à jour" effectue la mise à jour du serveur + la mise à jour de tous les mods actifs.'
+'Vous n''avez aucun mod workshop actif.': 'Vous n''avez aucun mod workshop actif.'
+'Le mot de passe administrateur doit être composé au maximum de 10 caractères et ne doit pas contenir de caractères spéciaux.': 'Le mot de passe administrateur doit être composé au maximum de 10 caractères et ne doit pas contenir de caractères spéciaux.'
+HOSTING_GRANTING_DOMAIN: 'Gérer le domaine'
+HOSTING_GRANTING_FTP: 'Serveur FTP'
+HOSTING_GRANTING_MYSQL: 'Base de données MySQL'
+Permissions: Permissions
+HOSTING_GRANTING_COLLABORATORS: Collaborateurs
+TEAMSPEAK_GRANTING_ACTIONS: 'Actions (start, stop, restart)'
+TEAMSPEAK_GRANTING_CONFIGURATION: Configuration
+TEAMSPEAK_GRANTING_PRIVILEGE_KEYS: 'Clés de privilèges'
+TEAMSPEAK_GRANTING_REINSTALL: 'Réinstallation serveur'
+TEAMSPEAK_GRANTING_COLLABORATORS: 'Gérer les collaborateurs'
+MUMBLE_GRANTING_ACTIONS: 'Actions (start, stop, restart)'
+MUMBLE_GRANTING_CONFIGURATION: Configuration
+MUMBLE_GRANTING_MUMBLE_CONSOLE: Console
+MUMBLE_GRANTING_REINSTALL: 'Réinstallation serveur'
+MUMBLE_GRANTING_COLLABORATORS: Collaborateurs
+GAME_GRANTING_ACTIONS: 'Actions (start, stop, restart, update, kill)'
+GAME_GRANTING_CONFIGURATION: Configuration
+GAME_GRANTING_TASKS: 'Tâches périodiques'
+GAME_GRANTING_BACKUP: Sauvegardes
+GAME_GRANTING_REINSTALL: 'Réinstallation du serveur'
+GAME_GRANTING_COLLABORATORS: Collaborateurs
+'Aucune permissions': 'Aucune permission'
+GAME_GRANTING_GAME_FILES: 'Fichiers (WebFTP + serveur FTP)'
+'Vous n''avez aucun produit actif.': 'Vous n''avez aucun produit actif.'
+'Impossible de démarrer le serveur, carte non existante:': 'Impossible de démarrer le serveur, carte non existante:'
+'Editer le collaborateur': 'Editer le collaborateur'
+admin-tools: 'Admin tools'
+anti-griefing-tools: 'Anti grief'
+chat-related: Chat
+developer-tools: 'Outils développeur'
+economy: Economie
+fixes: Fixes
+fun: Fun
+general: Général
+informational: Informatif
+mechanics: Mécaniques
+miscellaneous: Autres
+role-playing: RP
+teleportation: Téléportation
+twitch-integration: 'Intégration Twitch'
+website-administration: 'Administration (web)'
+world-editing-and-management: 'WorldEdit & Gestion'
+world-generators: 'Générateurs de monde'
+'Aucun plugin n''est disponible dans cette catégorie.': 'Aucun plugin n''est disponible dans cette catégorie.'
+Catégories: Catégories
+Previous: Précédent
+Next: Suivant
+Last: 'Dernière page'
+First: 'Première page'
+'Aucun plugin.': 'Aucun résultat trouvé'
+'Votre serveur doit être online pour pouvoir installer le plugin.': 'Votre serveur doit être online pour pouvoir installer le plugin.'
+'Votre serveur doit être online pour pouvoir installer un plugin Bukkit.': 'Votre serveur doit être online pour pouvoir installer un plugin.'
+Installé: Installé
+'Bukkit n''est pas présent sur votre serveur, veuillez l''installer pour avoir accès aux plugins Bukkit.': 'Bukkit n''est pas présent sur votre serveur, veuillez l''installer pour avoir accès aux plugins Bukkit.'
+'Votre version Bukkit': 'Votre version'
+'Une version de ce plugin est déjà présente sur votre serveur.': 'Une version de ce plugin est déjà présente sur votre serveur.'
+'Version Bukkit': 'Version Minecraft'
+'Êtes-vous sûr de vouloir installer ce plugin Bukkit ?': 'Êtes-vous sûr de vouloir installer ce plugin ?'
+Survival: Survie
+Creative: Créatif
+Adventure: Aventure
+Spectator: Spectateur
+'Un Discord est à votre disposition, pour échanger entre membres de mTxServ.': 'Un Discord est à votre disposition, pour échanger entre membres de mTxServ.'
+'N''attendez plus, rejoignez la communauté !': 'N''attendez plus, rejoignez la communauté !'
+'Multiplicateur de l''utilisation de l''oxygène sous l''eau par les joueurs': 'Multiplicateur de l''utilisation de l''oxygène sous l''eau par les joueurs'
+'Affiche les dégats au dessus de votre cible': 'Affiche les dégats au dessus de votre cible'
+'Autorise les dinos volants a récupérer leur énergie lorsqu''il sont en vole stationaire sans etre monté': 'Autorise les dinos volants a récupérer leur énergie lorsqu''il sont en vole stationaire sans etre monté'
+'Modifie la difficulté du serveur (créatures au niveau 150 avec la valeur 5)': 'Modifie la difficulté du serveur (créatures au niveau 150 avec la valeur 5)'
+'Plus le nombre est grand, plus il augmente (en pourcentage) la vitesse entre chaque ponte.': 'Plus le nombre est grand, plus il augmente (en pourcentage) la vitesse entre chaque ponte.'
+'Intervalle entre les défécations': 'Intervalle entre les défécations'
+'Plus le nombre est élevé (en pourcentage) plus il réduit la croissance des cultures': 'Plus le nombre est élevé (en pourcentage) plus il réduit la croissance des cultures'
+'Intervalle entre lesquelles les dinosaures peuvent s’accoupler (ex : 0,5 permet aux dinosaures de s’accoupler 50 % plus tôt).': 'Intervalle entre lesquelles les dinosaures peuvent s’accoupler (ex : 0,5 permet aux dinosaures de s’accoupler 50 % plus tôt).'
+'Plus le nombre est grand, plus il diminue (en pourcentage) le temps de maturation des oeufs.': 'Plus le nombre est grand, plus il diminue (en pourcentage) le temps de maturation des oeufs.'
+'Kill XP Multiplier': 'Kill XP Multiplier'
+'Utilisez les réglages du game mode solo': 'Utilisez les réglages du game mode solo'
+'Désactive le Friendly Fire sur les serveurs PVP !': 'Désactive le Friendly Fire sur les serveurs PVP !'
+'Désactive le Friendly Fire sur les serveurs PVE !': 'Désactive le Friendly Fire sur les serveurs PVE !'
+'Plus le nombre est grand, plus il diminue (en pourcentage) le temps de maturation des bébés dinos.': 'Plus le nombre est grand, plus il diminue (en pourcentage) le temps de maturation des bébés dinos.'
+'Désactive la collision des structures avec le terrain': 'Désactive la collision des structures avec le terrain'
+'Contenu du jeu': 'Contenu du jeu'
+Statut: Statut
+'Vous avez besoin de contenu additionel (CSS, TF2, HL2, etc) pour votre serveur Garry''s Mod ?': 'Vous avez besoin de contenu additionel (CSS, TF2, HL2, etc) pour votre serveur Garry''s Mod ?'
+'Nom d''utilisateur': 'Nom d''utilisateur'
+'Le statut du bot discord a bien été modifié, n''oubliez pas d''ajouter votre serverId.': 'Le statut du bot discord a bien été modifié, n''oubliez pas d''ajouter votre serverId.'
+Discord: Discord
+Bot Discord: Bot Discord
+'Voulez-vous activer le BOT Discord ?': 'Voulez-vous activer le BOT Discord ?'
+'Activer le BOT Discord ?': 'Activer le BOT Discord ?'
+'BOT Discord': 'BOT Discord'
+'La modification a bien été effectuée': 'La modification a bien été effectuée'
+'Veuillez ajouter le serveur ID pour activer le BOT': 'Veuillez ajouter le serveur ID pour activer le BOT'
+'Votre Discord Serveur Id (guildId)': 'Votre Discord Serveur Id (guildId)'
+'Modifier le serveur ID de votre Discord ?': 'Modifier le serveur ID de votre Discord ?'
+'Quel est l''ID de votre serveur Discord ?': 'Quel est l''ID de votre serveur Discord ?'
+'Modifier le serveur ID': 'Modifier le serveur ID'
+'Pour trouver l''ID de votre serveur Discord:': 'Pour trouver l''ID de votre serveur Discord:'
+'Par défaut, les commandes admins (indiquées dans !help) sont uniquement autorisées au propriétaire du serveur discord.': 'Par défaut, les commandes admins (indiquées dans !help) sont uniquement autorisées au propriétaire du serveur discord.'
+'Pour ajouter le BOT sur votre serveur Discord, utilisez le lien suivant (le bot doit être actif et votre ID Discord doit avoir été renseigné)': 'Pour ajouter le BOT sur votre serveur Discord, utilisez le lien suivant (le bot doit être actif et votre ID Discord doit avoir été renseigné)'
+'Pour changer le prefix des commandes:': 'Pour changer le prefix des commandes:'
+'Pour voir la configuration du bot:': 'Pour voir la configuration du bot:'
+'Toutes les variables peuvent être modifiées (par exemple pour désactiver certaines commandes).': 'Toutes les variables peuvent être modifiées (par exemple pour désactiver certaines commandes).'
+'Pour autoriser les utilisateurs ayant un rôle particulier à avoir accès aux commands admins:': 'Pour autoriser les utilisateurs ayant un rôle particulier à avoir accès aux commandes admins:'
+Utilisation: Utilisation
+'Pour autoriser les utilisateurs ayant un rôle particulier à avoir accès aux commandes admins:': 'Pour autoriser les utilisateurs ayant un rôle particulier à avoir accès aux commandes admins:'
+Community: Community
+'Votre espace ''Community'' sera activé sous 5 minutes max.': 'Votre espace ''Community'' sera activé sous 5 minutes max.'
+'L''espace Community, disponible avec votre serveur de jeu, vous permet de:': 'L''espace Community, disponible avec votre serveur de jeu, vous permet de:'
+'Gagner en visibilité et attirez de nouveaux joueurs grâce à une présence rapide et facile sur internet': 'Gagner en visibilité et attirez de nouveaux joueurs grâce à une présence rapide et facile sur internet'
+'Animez votre communauté avec le classement mensuel de vos joueurs': 'Animez votre communauté avec le classement mensuel de vos joueurs'
+'Parcourir les statistiques de vos parties, mises à jour toutes les 15 minutes': 'Parcourir les statistiques de vos parties, mises à jour toutes les 15 minutes'
+'Parcourir les messages du chat global et équipe de votre serveur': 'Parcourir les messages du chat global et équipe de votre serveur'
+'Afficher le statut en temps réel de votre serveur et des joueurs connectés': 'Afficher le statut en temps réel de votre serveur et des joueurs connectés'
+'Ajouter une présentation et une longue description de votre serveur': 'Ajouter une présentation et une longue description de votre serveur'
+'Ma Communauté': 'Ma Communauté'
+'Url de l''image du slider': 'Url de l''image du slider'
+'Url de votre site web': 'Url de votre site web'
+'Url de votre Twitter': 'Url de votre Twitter'
+'Url de votre Discord (invitation)': 'Url de votre Discord (invitation)'
+'Url de votre page Facebook': 'Url de votre page Facebook'
+'Présentation du serveur': 'Présentation du serveur'
+'Informations du serveur': 'Informations du serveur'
+'Votre communauté': 'Votre communauté'
+'Modifier la description': 'Modifier la description'
+'Aide format markdown': 'Aide format markdown'
+'Description (au format markdown)': 'Description (au format markdown)'
+'Informations & Description': 'Informations & Description'
+'Modifier l''image du slider': 'Modifier l''image du slider'
+'Vous pouvez modifier l''image du slider de la page communauté.': 'Vous pouvez modifier l''image du slider de la page communauté.'
+'Vous pouvez remettre l''image par defaut en laissant le champ vide.': 'Vous pouvez remettre l''image par defaut en laissant le champ vide.'
+'Modifier l''image': 'Modifier l''image'
+'Modifier les liens': 'Modifier les liens'
+'Url du compte Twitter': 'Url du compte Twitter'
+'Url invitation Discord': 'Url invitation Discord'
+'Modifier la présentation': 'Modifier la présentation'
+'Présentation (au format markdown)': 'Présentation (au format markdown)'
+'Afficher les joueurs connectés en temps réel ?': 'Afficher les joueurs connectés en temps réel ?'
+'Page community active ?': 'Page community active ?'
+'Si vous le souhaitez, vous pouvez désactiver la page community, vos données ne seront plus indéxées.': 'Si vous le souhaitez, vous pouvez désactiver la page community, vos données ne seront plus indéxées.'
+'Vous pouvez à tout moment réactiver la page community, les données seront réindéxées.': 'Vous pouvez à tout moment réactiver la page community, les données seront réindéxées.'
+'Voulez-vous afficher la liste des joueurs connectés en temps réel ?': 'Voulez-vous afficher la liste des joueurs connectés en temps réel ?'
+'Afficher les joueurs connectés ?': 'Afficher les joueurs connectés ?'
+'Afficher les messages du chat ?': 'Afficher les messages du chat ?'
+'Voulez-vous afficher les messages du chat ?': 'Voulez-vous afficher les messages du chat ?'
+'Plus tard': 'Plus tard'
+'Passer la configuration': 'Passer la configuration'
+'Afficher joueurs MineLive': 'Afficher joueurs MineLive'
+'Cacher joueurs MineLive': 'Cacher joueurs MineLive'
+'Êtes-vous sûr de vouloir installer %versionName% ?': 'Êtes-vous sûr de vouloir installer %versionName% ?'
+'Le plugin est en cours d''installation. Veuillez consulter le site officiel du plugin pour sa configuration.': 'Le plugin est en cours d''installation. Veuillez consulter le site officiel du plugin pour sa configuration.'
+'Spécifie la fréquence du spawn des ressources (arbres, pierres etc.)': 'Spécifie la fréquence du spawn des ressources (arbres, pierres etc...)'
+'Contenu de jeu (css, hl2, .)': 'Contenu de jeu (css, hl2, ..)'
+'Configurez en quelques clics les contenus chargés via le fichier mount.cfg de votre serveur.': 'Configurez en quelques clics les contenus chargés via le fichier mount.cfg de votre serveur.'
+'Modification mount.cfg': 'Modification mount.cfg'
+'Attention: notre technologie est une aide à la sécurisation de son serveur et n''est pas infaillible. Le meilleur moyen de ne pas avoir de backdoor est d''éviter les addons leaks.': 'Attention: notre technologie est une aide à la sécurisation de son serveur et n''est pas infaillible. Le meilleur moyen de ne pas avoir de backdoor est d''éviter les addons leaks.'
+'Contenu de jeu (css, .)': 'Contenu de jeu (css, ..)'
+list.my_products: 'Mes produits'
+list.title.game: 'Serveurs de jeux'
+list.title.voice: 'Serveurs vocaux'
+list.title.hosting: 'Hébergement web'
+list.empty: 'Vous n''avez aucun produit actif.'
+list.my_products.listing: 'Liste des produits'
+'Serveur vocal': 'Serveur vocal'
+'Hebergement web': 'Hebergement web'
+'Mes produits': 'Panel'
+'Serveur de jeux': 'Serveur de jeux'
+'Expire dans %expireAt% jours': 'Expire dans %expireAt% jours'
+Dashboard: Dashboard
+Domaine: Domaine
+Collaborateurs: Collaborateurs
+Prolonger: Prolonger mon serveur
+Support: Support
+'{0} Expire dans %expireAt% jour|[1,Inf] Expire dans %expireAt% jours': '{0} Expire dans %expireAt% jour|[1,Inf] Expire dans %expireAt% jours'
+'FAQ et tutoriels': 'FAQ et tutoriels'
+'Nous mettons à votre disposition un espace de documentation.': 'Nous mettons à votre disposition un espace de documentation.'
+'Vous y trouverez de nombreux tutoriaux vous aidant à la gestion de vos services.': 'Vous y trouverez de nombreux tutoriaux vous aidant à la gestion de vos services.'
+Communauté: Communauté
+'La communauté d''entraide mTxServ est réunie autour d''un forum d''échanges': 'La communauté d''entraide mTxServ est réunie autour d''un forum d''échanges'
+'N''hésitez pas à y participer, vous trouverez toute l''aide que vous souhaitez !': 'N''hésitez pas à y participer, vous trouverez toute l''aide que vous souhaitez !'
+'Forum communautaire': 'Forum communautaire'
+'Notre équipe est à votre disposition pour toute demande d''aide ou de renseignement.': 'Notre équipe est à votre disposition pour toute demande d''aide ou de renseignement.'
+'N''hésitez pas à consulter la doc et le forum d''entraide avant de nous contacter :)': 'N''hésitez pas à consulter la doc et le forum d''entraide avant de nous contacter :)'
+'Prolonger mon hébergement': 'Prolonger mon hébergement'
+'Date de création': 'Date de création'
+'Votre hébergement va expirer': 'Votre hébergement va expirer'
+'Une fois expiré, toutes les données associées seront définitivement effacées.': 'Une fois expiré, toutes les données associées seront définitivement effacées.'
+'Ce produit ne peut pas être prolongé.': 'Ce produit ne peut pas être prolongé.'
+'Expire dans': 'Expire dans'
+'Le propriétaire de l''hébergement web est le seul à pouvoir gérer les collaborateurs.': 'Le propriétaire de l''hébergement web est le seul à pouvoir gérer les collaborateurs.'
+'Ajouter un collaborateur': 'Ajouter un collaborateur'
+'Vous n''avez aucun collaborateur.': 'Vous n''avez aucun collaborateur.'
+Annuler: Annuler
+'E-mail du collaborateur': 'E-mail du collaborateur'
+'Ajouter le collaborateur': 'Ajouter le collaborateur'
+'Indiquez l''email du compte mTxServ existant à qui vous souhaitez donner les droits admins.': 'Indiquez l''email du compte mTxServ existant à qui vous souhaitez donner les droits admins.'
+'Ce champ est obligatoire': 'Ce champ est obligatoire'
+'Veuillez indiquer une adresse e-mail valide': 'Veuillez indiquer une adresse e-mail valide'
+'You are already administrator.': 'Vous êtes déjà administrateur.'
+'Une erreur est survenue.. :(': 'Une erreur est survenue.. :('
+'Le collaborateur a bien été ajouté.': 'Le collaborateur a bien été ajouté.'
+Succès: Succès
+'Nom de l''utilisateur': 'Nom de l''utilisateur'
+'Adresse e-mail': 'Adresse e-mail'
+Utilisateur: Utilisateur
+'Êtes-vous sûr de vouloir supprimer ce collaborateur ?': 'Êtes-vous sûr de vouloir supprimer ce collaborateur ?'
+'Supprimer le collaborateur': 'Supprimer le collaborateur'
+'Supprimer "%user%"': 'Supprimer "%user%"'
+'Le collaborateur a bien été supprimé.': 'Le collaborateur a bien été supprimé.'
+'Domaine personnalisé': 'Domaine personnalisé'
+'Associer un domaine': 'Associer un domaine'
+'Vous possédez un nom de domaine personnalisé  (.com, .fr, .net, ..) ? Associez le à votre hébergement web !': 'Vous possédez un nom de domaine personnalisé  (.com, .fr, .net, ..) ? Associez le à votre hébergement web !'
+'Nom de domaine associé à votre hébergement': 'Nom de domaine associé à votre hébergement'
+Aucun: Aucun
+'Nom de domaine': 'Nom de domaine'
+example.com: exemple.fr
+'Associer le domaine': 'Associer le domaine'
+'Le domaine a bien été associé.': 'Le domaine a bien été associé.'
+'Configuration du domaine': 'Configuration du domaine'
+hosting.dns: 'Pour associer un nom de domaine, vous devez configurer AVANT votre pointeur DNS de type A ou modifier le pointeur déjà existant vers l’adresse IP cible'
+'Pour obtenir de l’aide concernant la création d’un pointeur DNS sur votre zone DNS, consultez la documentation de votre fournisseur de nom de domaine.': 'Pour obtenir de l’aide concernant la création d’un pointeur DNS sur votre zone DNS, consultez la documentation de votre fournisseur de nom de domaine.'
+'Supprimer le domaine associé': 'Supprimer le domaine associé'
+'Êtes-vous sûr de vouloir supprimer le domaine associé à votre hébergement web ?': 'Êtes-vous sûr de vouloir supprimer le domaine associé à votre hébergement web ?'
+Hébergement: Hébergement
+'Nom de domaine associé': 'Nom de domaine associé'
+'Supprimer le domaine': 'Supprimer le domaine'
+'Supprimer "%domain%"': 'Supprimer "%domain%"'
+'Le nom de domaine a bien été supprimé.': 'Le nom de domaine a bien été supprimé.'
+'Base de données': 'Base de données'
+'Changer mot de passe': 'Changer mot de passe'
+PHPMyAdmin: PHPMyAdmin
+'Espace disque utilisé': 'Espace disque utilisé'
+'Dernières actions effectuées': 'Dernières actions effectuées'
+'Domaine personnalisé supprimé': 'Domaine personnalisé supprimé'
+'Ajout domaine personnalisé': 'Ajout domaine personnalisé'
+'Nouveau mot de passe MySQL': 'Nouveau mot de passe MySQL'
+'Mot de passe': 'Mot de passe'
+'Le mot de passe doit contenir au moins 8 caractères avec au minimum une majuscule, une minuscule et un chiffre.': 'Le mot de passe doit contenir au moins 8 caractères avec au minimum une majuscule, une minuscule et un chiffre.'
+Modifier: Modifier
+'Entrez le nouveau mot de passe': 'Entrez le nouveau mot de passe'
+'Le mot de passe a bien été changé': 'Le mot de passe a bien été changé'
+'Pour vous conformer à notre stratégie de sécurité, vous devez utiliser un mot de passe suffisamment puissant.': 'Pour vous conformer à notre stratégie de sécurité, vous devez utiliser un mot de passe suffisamment puissant.'
+'Nouveau mot de passe FTP': 'Nouveau mot de passe FTP'
+'Hebergement 2000  Mo': 'Hebergement 2000 Mo'
+'Mot de passe ftp modifié': 'Mot de passe ftp modifié'
+'Mot de passe sql modifié': 'Mot de passe sql modifié'
+'Aucun historique': 'Aucun historique'
+'par %user%': 'par %user%'
+Teamspeak: Teamspeak
+Intégration: Intégration
+'Mon contrat': 'Mon contrat'
+Informations: Informations
+Adresse: Adresse
+Configuration: Configuration
+'Clés de privilèges': 'Clés de privilèges'
+Réinstaller: Réinstaller
+'Changer d''offre': 'Changer d''offre'
+Redémarrer: Redémarrer
+Arrêter: Arrêter
+'API json': 'API json'
+'Réponse de l''API:': 'Réponse de l''API:'
+'Widget HTML': 'Widget HTML'
+'Nous mettons à votre disposition un widget simple d''utilisation pour votre site internet.': 'Nous mettons à votre disposition un widget simple d''utilisation pour votre site internet.'
+'Copier l''URL': 'Copier l''URL'
+'Pour l''utiliser, copiez simplement le code HTML ci-dessous dans votre page.': 'Pour l''utiliser, copiez simplement le code HTML ci-dessous dans votre page.'
+'Copier le code': 'Copier le code'
+'Créer une clé privilège': 'Créer une clé privilège'
+'Votre serveur doit être démarré pour pouvoir gérer vos clés de privilèges.': 'Votre serveur doit être démarré pour pouvoir gérer vos clés de privilèges.'
+'Vous n''avez aucune clé de privilège.': 'Vous n''avez aucune clé de privilège.'
+'Générer une clé de privilège': 'Générer une clé de privilège'
+'Groupe associée à la clé de privilège': 'Groupe associée à la clé de privilège'
+'Description associée à la clé de privilège': 'Description associée à la clé de privilège'
+'Ex: Token admin de Snk': 'Ex: Token admin de Snk'
+'Nouveau token généré.': 'Nouveau token généré.'
+Groupe: Groupe
+Token: Token
+Description: Description
+'Êtes-vous sûr de vouloir supprimer cette clé ?': 'Êtes-vous sûr de vouloir supprimer cette clé ?'
+'Supprimer une clé de privilège': 'Supprimer une clé de privilège'
+'Créé le': 'Créé le'
+'Supprimer la clé': 'Supprimer la clé'
+'Le token a bien été supprimé.': 'Le token a bien été supprimé.'
+Réinstallation: Réinstallation
+'Réinstaller le serveur': 'Réinstaller le serveur'
+'En cas de problème avec votre serveur vocal, vous pouvez demander une réinstallation de celui-ci.': 'En cas de problème avec votre serveur vocal, vous pouvez demander une réinstallation de celui-ci.'
+'Attention, cette action est irréversible et entrainera la perte des données de votre serveur vocal.': 'Attention, cette action est irréversible et entrainera la perte des données de votre serveur vocal.'
+'Réinstallation du serveur': 'Réinstallation du serveur'
+'Êtes-vous sûr de vouloir réinstaller ce serveur ?': 'Êtes-vous sûr de vouloir réinstaller ce serveur ?'
+'Le serveur Teamspeak est en cours de réinstallation': 'Le serveur Teamspeak est en cours de réinstallation'
+'Livraison du Teamspeak': 'Livraison du TeamSpeak'
+'Arrêt du Teamspeak': 'Arrêt du TeamSpeak'
+'Réinstallation du Teamspeak': 'Réinstallation du TeamSpeak'
+'Clé de privilège ajoutée': 'Clé de privilège ajoutée'
+'Clé de privilège supprimée': 'Clé de privilège supprimée'
+restart: restart
+'Etes-vous sur de vouloir effectuer l''action %actionName% sur ce serveur ?': 'Etes-vous sur de vouloir effectuer l''action %actionName% sur ce serveur ?'
+stop: stop
+Démarrer: Démarrer
+start: start
+'Votre Teamspeak va expirer': 'Votre TeamSpeak va expirer'
+'Prolonger mon Teamspeak': 'Prolonger mon TeamSpeak'
+'N''attendez pas trop longtemps pour prolonger vos produits ! Une fois expiré, toutes les données associées seront définitivement effacées.': 'N''attendez pas trop longtemps pour prolonger vos produits ! Une fois expiré, toutes les données associées seront définitivement effacées.'
+'Pour quelle durée souhaitez-vous prolonger votre serveur ?': 'Pour quelle durée souhaitez-vous prolonger votre serveur ?'
+Durée: Durée
+'Prolonger mon serveur': 'Prolonger mon serveur'
+mois: mois
+'Changement de slots': 'Changement de slots'
+'Vous pouvez changer l''offre de votre serveur, la date d''expiration du contrat sera automatiquement recalculée au propata.': 'Vous pouvez changer l''offre de votre serveur, la date d''expiration du contrat sera automatiquement recalculée au prorata.'
+'Attention, vous ne pouvez effectuer qu''un seul changement d''offre tous les 15 jours.': 'Attention, vous ne pouvez effectuer qu''un seul changement d''offre tous les 15 jours.'
+'Modifier mes slots': 'Modifier mes slots'
+'Ce produit ne peut pas être modifié.': 'Ce produit ne peut pas être modifié.'
+'Vous ne pouvez-pas faire de changement de slots avant le %nextAllowedChange%.': 'Vous ne pouvez-pas faire de changement de slots avant le %nextAllowedChange%.'
+'Vous pouvez changer l''offre de votre serveur et la date d''expiration du contrat sera automatiquement recalculée au propata..': 'Vous pouvez changer l''offre de votre serveur et la date d''expiration du contrat sera automatiquement recalculée au prorata.'
+'Combien de slots voulez-vous ?': 'Combien de slots voulez-vous ?'
+'Le serveur expire actuellement dans': 'Le serveur expire actuellement dans'
+jour: jour
+jours: jours
+'Après changement, le serveur expirera dans': 'Après changement, le serveur expirera dans'
+'Votre compte sera recrédité de': 'Votre compte sera recrédité de'
+'Le propriétaire du serveur Teamspeak est le seul à pouvoir gérer les collaborateurs.': 'Le propriétaire du serveur Teamspeak est le seul à pouvoir gérer les collaborateurs.'
+'Configuration du serveur': 'Configuration du serveur'
+'Nom du serveur': 'Nom du serveur'
+'Modifier le nom du serveur': 'Modifier le nom du serveur'
+'Votre serveur doit être allumé pour pouvoir effectuer cette action.': 'Votre serveur doit être allumé pour pouvoir effectuer cette action.'
+'Nom du serveur affiché sur Teamspeak': 'Nom du serveur affiché sur Teamspeak'
+'Indiquez le nom': 'Indiquez le nom'
+'Modifier le nom': 'Modifier le nom'
+'Le nom du serveur a bien été modifié.': 'Le nom du serveur a bien été modifié.'
+'Nom du Teamspeak modifié': 'Nom du Teamspeak modifié'
+'Démarrage du Teamspeak': 'Démarrage du Teamspeak'
+Nom: Nom
+'Reboot du Teamspeak': 'Reboot du Teamspeak'
+Mumble: Mumble
+Console: Console
+'Connectés simultanés': 'Connectés simultanés'
+'Aucun mot de passe': 'Aucun mot de passe'
+'Largeur (en px)': 'Largeur (en px)'
+'Hauteur (en px)': 'Hauteur (en px)'
+'Couleur du background': 'Couleur du background'
+'Couleur du texte': 'Couleur du texte'
+'Couleur du la bordure': 'Couleur du la bordure'
+'Le serveur Mumble est en cours de réinstallation': 'Le serveur Mumble est en cours de réinstallation'
+'Prolonger mon Mumble': 'Prolonger mon Mumble'
+'Votre Mumble va expirer': 'Votre Mumble va expirer'
+'Réinstallation du mumble': 'Réinstallation du mumble'
+Rafraichir: Rafraîchir le statut du serveur
+'Il n''y a aucun historique dans la console.': 'Il n''y a aucun historique dans la console.'
+'Le propriétaire du serveur Mumble est le seul à pouvoir gérer les collaborateurs.': 'Le propriétaire du serveur Mumble est le seul à pouvoir gérer les collaborateurs.'
+'Mot de passe d''accès au serveur': 'Mot de passe d''accès au serveur'
+'Mot de passe administrateur': 'Mot de passe administrateur'
+'Message de bienvenue': 'Message de bienvenue'
+'Nom du serveur affiché sur Mumble': 'Nom du serveur affiché sur Mumble'
+'Nouveau mot de passe SuperUser': 'Nouveau mot de passe SuperUser'
+'Ce mot de passe permet de vous connnecter en administrateur sur votre serveur Mumble, associé à l''utilisateur SuperUser.': 'Ce mot de passe permet de vous connnecter en administrateur sur votre serveur Mumble, associé à l''utilisateur SuperUser.'
+'Indiquez le nouveau mot de passe administrateur': 'Indiquez le nouveau mot de passe administrateur'
+'Modifier le mot de passe': 'Modifier le mot de passe'
+'Le mot de passe doit contenir 8 caractères avec au minimum une majuscule, une minuscule et un chiffre.': 'Le mot de passe doit contenir 8 caractères avec au minimum une majuscule, une minuscule et un chiffre.'
+'Le mot de passe admin a été modifié.': 'Le mot de passe admin a été modifié.'
+'Indiquez le nouveau mot de passe': 'Indiquez le nouveau mot de passe'
+'Nouveau mot de passe d''accès au serveur': 'Nouveau mot de passe d''accès au serveur'
+'Le mot de passe d''accès au serveur a été modifié.': 'Le mot de passe d''accès au serveur a été modifié.'
+'Message de bienvenue affiché sur Mumble': 'Message de bienvenue affiché sur Mumble'
+'Message au format HTML': 'Message au format HTML'
+'Modifier le message': 'Modifier le message'
+'Le message de bienvenue a bien été modifié.': 'Le message de bienvenue a bien été modifié.'
+'Message de bienvenue modifié': 'Message de bienvenue modifié'
+'Mot de passe mumble modifié': 'Mot de passe mumble modifié'
+'Mot de passe SuperUser modifié': 'Mot de passe SuperUser modifié'
+'Nom du mumble modifié': 'Nom du mumble modifié'
+'Reboot du Mumble': 'Reboot du Mumble'
+'Arrêt du Mumble': 'Arrêt du Mumble'
+'Démarrage du Mumble': 'Démarrage du Mumble'
+Jeu: Jeu
+Carte: Carte
+Erreur: Erreur
+Info: Info
+'Mon serveur': 'Mon serveur'
+'Tâches planifiées': 'Tâches planifiées'
+'Fichiers & FTP': 'Fichiers & FTP'
+Performances: Performances
+Sauvegardes: Sauvegardes
+'MySQL & Site': 'MySQL & Site'
+Minecraft: Minecraft
+'Version & Modpack': 'Version, Modpacks'
+MineLive: MineLive
+Opérateurs: Opérateurs
+Whitelist: Whitelist
+'Joueurs bannis': 'Joueurs bannis'
+'IP bannies': 'IP bannies'
+'Historique API': 'Historique API'
+'Restaurer un serveur': 'Restaurer un serveur'
+'Copier la console': 'Copier la console'
+'Entrez la commande à éxécuter': 'Entrez la commande à éxécuter'
+Exécuter: Exécuter
+'Mettre à jour': 'Mettre à jour'
+'Redémarrage forcé': 'Redémarrage forcé'
+Arrêt forcé: Arrêt forcé
+Cartes: Cartes
+Plugins: Plugins
+Replay: Replay
+Workshop: Workshop
+Sécurité: Sécurité
+Mods: Mods
+HLTV: HLTV
+'Livemap 2D': 'Livemap 2D'
+eBot: eBot
+'Le serveur doit être online pour envoyer une commande.': 'Le serveur doit être online pour envoyer une commande.'
+Joueurs: Joueurs
+'Nous mettons à votre disposition un HLTV pour votre serveur permettant à vos amis de d''observer vos parties en direct.': 'Nous mettons à votre disposition un HLTV pour votre serveur permettant à vos amis de d''observer vos parties en direct.'
+'Adresse du HLTV': 'Adresse du HLTV'
+'Vous pouvez installer en 1 click les plugins listés ci-dessous.': 'Vous pouvez installer en 1 click les plugins listés ci-dessous.'
+'Configuration générale': 'Configuration générale'
+'Configuration avancée': 'Configuration avancée'
+'Nombre de joueurs': 'Nombre de joueurs'
+'Nom de la carte utilisée': 'Nom de la carte utilisée'
+'Description du serveur': 'Description du serveur'
+'Nom de passe admin du serveur': 'Nom de passe admin du serveur'
+'URL de votre site internet': 'URL de votre site internet'
+'URL de l''image bannière': 'URL de l''image bannière'
+'Active / Désactive les radiations sur le serveur': 'Active / Désactive les radiations sur le serveur'
+Oui: Oui
+'Active / Désactive les structures de stabilité': 'Active / Désactive les structures de stabilité'
+'Active / Désactive le PVE': 'Active / Désactive le PVE'
+'Active / Désactive le tchat global': 'Active / Désactive le tchat global'
+'Active / Désactive l''anticheat': 'Active / Désactive l''anticheat'
+'Seed de la map (défaut: 50000)': 'Seed de la map (défaut: 50000)'
+'Taille de la map (défaut: 3000)': 'Taille de la map (défaut: 3000)'
+'Fréquence entre les backups automatisés en secondes (défaut: 600)': 'Fréquence entre les backups automatisés en secondes (défaut: 600)'
+'Etes-vous sûr de vouloir installer le plugin {{plugin.label}} ?': 'Etes-vous sûr de vouloir installer le plugin {{plugin.label}} ?'
+'Installation %pluginName%': 'Installation %pluginName%'
+'RCON password': 'RCON password'
+'Map de démarrage': 'Map de démarrage'
+'Commande envoyée au serveur.': 'Commande envoyée au serveur.'
+update: update
+force_restart: force_restart
+'Action en cours..': 'Action en cours...'
+'Arrêt du serveur en cours.': 'Arrêt du serveur en cours.'
+'Arrêt du serveur': 'Arrêt du serveur'
+'Serveur en cours de démarrage sur minecraft.': 'Serveur en cours de démarrage sur minecraft.'
+'Restaurer un serveur expiré': 'Restaurer un serveur expiré'
+'Vos données sont importantes et nous le savons, nous mettons ainsi le paquet en faisant une sauvegarde complète des serveurs lors de leur expiration.': 'Vos données sont importantes et nous le savons, nous mettons ainsi le paquet en faisant une sauvegarde complète des serveurs lors de leur expiration.'
+'Cette sauvegarde est gardée de côté pendant 1 an pour vous permettre de réouvrir votre serveur avec vos données.': 'Cette sauvegarde est gardée de côté pendant 1 an pour vous permettre de réouvrir votre serveur avec vos données.'
+'Date d''expiration': 'Date d''expiration'
+Contrat: Contrat
+'Nom du serveur (hostname)': 'Nom du serveur (hostname)'
+expiré: expiré
+'Contrat expiré': 'Contrat expiré'
+'Date de la sauvegarde': 'Date de la sauvegarde'
+'Restaurer le serveur expiré': 'Restaurer le serveur expiré'
+'Une action est en cours sur votre serveur, veuillez attendre la fin de son éxécution avant de pouvoir restaurer un serveur expiré.': 'Une action est en cours sur votre serveur, veuillez attendre la fin de son éxécution avant de pouvoir restaurer un serveur expiré.'
+'Etes-vous sûr de voiloir restaurer cette sauvegarde ?': 'Etes-vous sûr de voiloir restaurer cette sauvegarde ?'
+'Attention, cette action est irréversible et entrainera la perte des données de votre serveur actuel.': 'Attention, cette action est irréversible et entrainera la perte des données de votre serveur actuel.'
+'Changement d''offre': 'Changement d''offre'
+'Modifier mon offre': 'Modifier mon offre'
+'Quelle offre voulez-vous ?': 'Quelle offre voulez-vous ?'
+Cubimax: Cubimax
+Starter: Starter
+Cubik: Cubik
+'Le changement d''offre vers a bien été effectué.': 'Le changement d''offre vers a bien été effectué.'
+'Expire in 15 days': 'Expire dans 15 jours'
+'Votre serveur de jeu va expirer': 'Votre serveur de jeu va expirer'
+'Le serveur expiré est en cours de restauration.': 'Le serveur expiré est en cours de restauration.'
+'Retrouvez ci-dessous les 100 dernières actions effectuées sur votre serveur.': 'Retrouvez ci-dessous les 100 dernières actions effectuées sur votre serveur.'
+Date: Date
+Action: Action
+'Restauration serveur expiré': 'Restauration serveur expiré'
+'Démarrage du serveur': 'Démarrage du serveur'
+'Afficher les joueurs connectés': 'Afficher les joueurs connectés'
+'Indiquez l''email du compte mTxServ existant à qui vous souhaitez donner les droits admins': 'Indiquez l''email du compte mTxServ existant à qui vous souhaitez donner les droits admins'
+'No account associated to this email address.': 'Pas de compte associé à cette adresse e-mail.'
+'Envie d''une version/type ou modpack ne faisant pas partie de la liste ci-dessous ? N''hésitez pas à nous le faire savoir sur le support.': 'Envie d''une version/type ou modpack ne faisant pas partie de la liste ci-dessous ? N''hésitez pas à nous le faire savoir sur le support.'
+'Vous pouvez à tout moment changer en 1 click la version installée sur votre serveur Minecraft.': 'Vous pouvez à tout moment changer en 1 click la version installée sur votre serveur Minecraft.'
+Type: Type
+Version: Version
+'Version Minecraft': 'Version Minecraft'
+Build: Build
+'Nous vous conseillons de réinstaller votre serveur afin d''éviter tout problème avec votre installation actuelle. Attention, toutes les données actuelles seront perdues !': 'Nous vous conseillons de réinstaller votre serveur afin d''éviter tout problème avec votre installation actuelle. Attention, toutes les données actuelles seront perdues !'
+'Êtes-vous sûr de vouloir installer {{version.name}} ?': 'Êtes-vous sûr de vouloir installer {{version.name}} ?'
+'Réinstaller mon serveur (destruction des données actuelles)': 'Réinstaller mon serveur (destruction des données actuelles)'
+'Installer en conservant les données actuelles': 'Installer sans supprimer les données actuelles (mettre à jour)'
+Installer: Installer
+'Installer %versionName%': 'Installer %versionName%'
+'Installation en cours.': 'Installation en cours.'
+'Paramètres de rendu des joueurs': 'Paramètres de rendu des joueurs'
+'Nous mettons à votre disposition une livemap de vos mondes, visionnable depuis votre navigateur.': 'Nous mettons à votre disposition une livemap de vos mondes, visionnable depuis votre navigateur.'
+'La génération de la livemap à lieu 1 fois par jour, durant la nuit.': 'La génération de la livemap à lieu 1 fois par jour, durant la nuit.'
+'Accéder à la LiveMap': 'Accéder à la LiveMap'
+'Nécessite CraftBukkit et le plugin PlayerMarkers pour fonctionner.': 'Nécessite CraftBukkit et le plugin PlayerMarkers pour fonctionner.'
+'Si vous le souhaitez, vous pouvez afficher en live les joueurs connectés sur votre livemap :': 'Si vous le souhaitez, vous pouvez afficher en live les joueurs connectés sur votre livemap :'
+'Activer le rendu des joueurs sur la LiveMap': 'Activer le rendu des joueurs sur la LiveMap'
+'Les paramètres du rendu des joueurs ont été modifiés.': 'Les paramètres du rendu des joueurs ont été modifiés.'
+'Votre serveur Minecraft doit être online pour pouvoir gérer la liste des opérateurs du serveur.': 'Votre serveur Minecraft doit être online pour pouvoir gérer la liste des opérateurs du serveur.'
+'Ajouter un opérateur': 'Ajouter un opérateur'
+Joueur: Joueur
+Niveau: Niveau
+UUID: UUID
+'Vous n''avez aucun opérateur.': 'Vous n''avez aucun opérateur.'
+'Veuillez indiquer le joueur à ajouter en tant qu''opérateur:': 'Veuillez indiquer le joueur à ajouter en tant qu''opérateur:'
+'Ajouter l''opérateur': 'Ajouter l''opérateur'
+'Cet utilisateur n''existe pas': 'Cet utilisateur n''existe pas'
+'Installation plugin': 'Installation plugin'
+'Sauvegarde du serveur en cours.': 'Sauvegarde du serveur en cours.'
+'L''opérateur a bien été ajouté.': 'L''opérateur a bien été ajouté.'
+'Ajouter un utilisateur': 'Ajouter un utilisateur'
+'Aucun joueur dans la whitelist': 'Aucun joueur dans la whitelist'
+'Ajouter un joueur': 'Ajouter un joueur'
+'Veuillez indiquer le nom du joueur à ajouter à la whitelist :': 'Veuillez indiquer le nom du joueur à ajouter à la whitelist :'
+'Ajouter l''utilisateur': 'Ajouter l''utilisateur'
+'Le joueur a bien été ajouté.': 'Le joueur a bien été ajouté.'
+'Êtes-vous sûr de vouloir supprimer cet utilisateur ?': 'Êtes-vous sûr de vouloir supprimer cet utilisateur ?'
+'Supprimer l''utilisateur': 'Supprimer l''utilisateur'
+'Supprimer %user%': 'Supprimer %user%'
+'Êtes-vous sûr de vouloir supprimer cet opérateur ?': 'Êtes-vous sûr de vouloir supprimer cet opérateur ?'
+'Supprimer l''opérateur': 'Supprimer l''opérateur'
+'L''opérateur a bien été supprimé.': 'L''opérateur a bien été supprimé.'
+'Le joueur a bien été supprimé.': 'Le joueur a bien été supprimé.'
+'Bannir un joueur': 'Bannir un joueur'
+Raison: Raison
+'Aucun utilisateur banni': 'Aucun utilisateur banni'
+'Veuillez indiquer le nom du joueur à bannir :': 'Veuillez indiquer le nom du joueur à bannir :'
+'Bannir le joueur': 'Bannir le joueur'
+'Le joueur a bien été banni.': 'Le joueur a bien été banni.'
+'Bannir une IP': 'Bannir une IP'
+IP: IP
+'Aucune adresse IP bannie': 'Aucune adresse IP bannie'
+'Veuillez indiquer l''adresse IP à bannir :': 'Veuillez indiquer l''adresse IP à bannir :'
+'Adresse IP': 'Adresse IP'
+'Bannir l''adresse IP': 'Bannir l''adresse IP'
+'L''adresse IP a bien été banni.': 'L''adresse IP a bien été banni.'
+'Êtes-vous sûr de vouloir supprimer cette IP ?': 'Êtes-vous sûr de vouloir supprimer cette IP ?'
+'Supprimer l''IP': 'Supprimer l''IP'
+'Supprimer "%ip%"': 'Supprimer "%ip%"'
+'L''adresse IP a bien été supprimé.': 'L''adresse IP a bien été supprimé.'
+'Mise à jour du serveur': 'Mise à jour du serveur'
+'Activation MineLive': 'Activation MineLive'
+'Version Java': 'Version Java'
+'Monde utilisé': 'Carte (Monde)'
+'Type de monde': 'Type de monde'
+Difficulté: Difficulté
+Facile: Facile
+'Message affiché dans la liste des serveurs du client, au-dessous du nom.': 'Message affiché dans la liste des serveurs du client, au-dessous du nom.'
+'Indiquez le nom du serveur': 'Indiquez le nom du serveur'
+'La modification sera effective au prochain reboot du serveur.': 'La modification sera effective au prochain reboot du serveur.'
+'Modification effectuée': 'Modification effectuée'
+'Nombre de joueurs (maxslots)': 'Nombre de joueurs (maxslots)'
+'Besoin de davantage de slots ou vous souhaitez au contraire passer sur une offre inférieure ?': 'Besoin de davantage de slots ou vous souhaitez au contraire passer sur une offre inférieure ?'
+'Vous pouvez changer d''offre depuis le menu "Mon Contrat -> Changer d''offre".': 'Vous pouvez changer d''offre depuis le menu "Mon Contrat -> Changer d''offre".'
+'Indiquez le nombre de joueur max de votre serveur.': 'Indiquez le nombre de joueur max de votre serveur.'
+'Modifier le maxslots': 'Modifier le maxslots'
+'Le nombre de slots a bien été modifié.': 'Le nombre de slots a bien été modifié.'
+'Modifier la version JAVA': 'Modifier la version JAVA'
+'Par défaut : 8, vous pouvez essayer de changer de version si votre serveur ne démarre pas ou si vous avez des bugs de mods/plugins.': 'Par défaut : 8, vous pouvez essayer de changer de version si votre serveur ne démarre pas ou si vous avez des bugs de mods/plugins.'
+'Modifier la version': 'Modifier la version'
+'Modifier le monde utilisé': 'Modifier le monde utilisé'
+Monde: Monde
+'Nom du monde utilisé (level-name) sur le serveur Minecraft (nom du dossier à utiliser).': 'Nom du monde utilisé (level-name) sur le serveur Minecraft (nom du dossier à utiliser).'
+'Modifier le monde': 'Modifier le monde'
+'Modifier la difficulté': 'Modifier la difficulté'
+'Définit la difficulté (par exemple, les dommages infligés par les mobs et la façon dont les joueurs sont affectés par la faim et les empoisonnements) du serveur.': 'Définit la difficulté (par exemple, les dommages infligés par les mobs et la façon dont les joueurs sont affectés par la faim et les empoisonnements) du serveur.'
+Paisible: Paisible
+Normal: Normal
+Difficile: Difficile
+'Modifier le type de monde': 'Modifier le type de monde'
+'Détermine le type de map générée.': 'Détermine le type de map générée.'
+'DEFAULT - Monde standard avec collines, vallées, eau, etc..': 'DEFAULT - Monde standard avec collines, vallées, eau, etc..'
+'FLAT - Un monde plat sans caractéristiques, destiné à la construction': 'FLAT - Un monde plat sans caractéristiques, destiné à la construction'
+'LARGEBIOMES - Similaire au monde standard, mais avec de plus grands biomes': 'LARGEBIOMES - Similaire au monde standard, mais avec de plus grands biomes'
+'CUSTOMIZED - (only Minecraft >= 1.8) Type personnalisable, voir la documentation officielle pour plus d''informations': 'CUSTOMIZED - (only Minecraft >= 1.8) Type personnalisable, voir la documentation officielle pour plus d''informations'
+'AMPLIFIED - Un monde constitué de montagnes et de ravins': 'AMPLIFIED - Un monde constitué de montagnes et de ravins'
+'Nombreux biomes fournis par le mod Biomes O'' Plenty.': 'Nombreux biomes fournis par le mod Biomes O'' Plenty.'
+'Si désactivé, les joueurs utilisant une version crackée de Minecraft pourront se connecter à votre serveur.': 'Si désactivé, les joueurs utilisant une version crackée de Minecraft pourront se connecter à votre serveur.'
+'Si activé, uniquement les joueurs présent dans la whitelist pourront se connecter au serveur.': 'Si activé, uniquement les joueurs présent dans la whitelist pourront se connecter au serveur.'
+Non: Non
+'Si activé, le joueur sera banni définitivement à sa mort.': 'Si activé, le joueur sera banni définitivement à sa mort.'
+'Détermine le rayon de protection au point d''apparition du serveur (0 = désactivé).': 'Détermine le rayon de protection au point d''apparition du serveur (0 = désactivé).'
+'Si activé, le serveur forcera les joueurs se connectant au serveur a être en mode défini par défaut avec la ligne gamemode.': 'Si activé, le serveur forcera les joueurs se connectant au serveur a être en mode défini par défaut avec la ligne gamemode.'
+'Si activé, autoriser les dommages joueur vs joueur sur le serveur.': 'Si activé, autorise les dommages joueur vs joueur sur le serveur.'
+'Autoriser ou non le fait de pouvoir voler.': 'Autoriser ou non le fait de pouvoir voler.'
+'Si activé, autorise les joueurs à accéder au Nether.': 'Si activé, autorise les joueurs à accéder au Nether.'
+'Si activé, la commmande block pourra être utilisée.': 'Si activé, la commmande block pourra être utilisée.'
+'Si activé, des créatures hostiles peuvent apparaître.': 'Si activé, des créatures hostiles peuvent apparaître.'
+'Si activé, des villageois peuvent apparaître.': 'Si activé, des villageois peuvent apparaître.'
+'Si activé, des créatures pacifiques peuvent apparaître.': 'Si activé, des créatures pacifiques peuvent apparaître.'
+'Les joueurs sont expulsés du serveur s''ils sont inactifs plus longtemps que le nombre de minutes défini (0 pour désactiver).': 'Les joueurs sont expulsés du serveur s''ils sont inactifs plus longtemps que le nombre de minutes défini (0 pour désactiver).'
+'Si activé, des structures (ex: villages) seront générées dans les nouveaux tronçons.': 'Si activé, des structures (ex: villages) seront générées dans les nouveaux tronçons.'
+'Modifier "%cvar%"': 'Modifier "%cvar%"'
+'Créer une tâche exécutable 1 seule fois': 'Créer une tâche exécutable 1 seule fois'
+'Créer une tâche répétitive': 'Créer une tâche répétitive'
+'Vous pouvez programmer des tâches éxécutable une ou plusieurs fois sur votre serveur.': 'Vous pouvez programmer des tâches éxécutable une ou plusieurs fois sur votre serveur.'
+'Vous n''avez programmé aucune tâche.': 'Vous n''avez programmé aucune tâche.'
+'Création tâche répétitive': 'Création tâche répétitive'
+'Le délai minimal pour une tâche répétitive est de 5 minutes.': 'Le délai minimal pour une tâche répétitive est de 5 minutes.'
+'Exécute l''action toutes les 5 minutes': 'Exécute l''action toutes les 5 minutes'
+'Exécute l''action tous les jours et toutes les heures à la 10e minute (ex : 0h10, 1h10, 2h10, etc)': 'Exécute l''action tous les jours et toutes les heures à la 10e minute (ex : 0h10, 1h10, 2h10, etc)'
+'Exécute l''action tous les jours et toutes les 5 minutes à la 12ème heure seulement (ex : 12h00, 12h05, 12h10... 12h55)': 'Exécute l''action tous les jours et toutes les 5 minutes à la 12ème heure seulement (ex : 12h00, 12h05, 12h10... 12h55)'
+'Exécute l''action tous les jours à 3h00': 'Exécute l''action tous les jours à 3h00'
+'Exécute l''action tous les 1er du mois à 1h30': 'Exécute l''action tous les 1er du mois à 1h30'
+Heure: Heure
+Minute: Minute
+'Type de tâche': 'Type de tâche'
+'Ajouter la tâche': 'Ajouter la tâche'
+'Redémarrage du serveur': 'Redémarrage du serveur'
+'Envoie une commande console au serveur': 'Envoie une commande console au serveur'
+'La tâche a bien été ajouté.': 'La tâche a bien été ajouté.'
+Tâche: Tâche
+Fréquence: Fréquence
+'Supprimer une tâche': 'Supprimer une tâche'
+'Êtes-vous sûr de vouloir supprimer cette tâche ?': 'Êtes-vous sûr de vouloir supprimer cette tâche ?'
+'Créé par': 'Créé par'
+'Supprimer la tâche': 'Supprimer la tâche'
+Periode: Periode
+'La tâche a bien été supprimé.': 'La tâche a bien été supprimé.'
+'Création tâche exécutable 1 seule fois': 'Création tâche exécutable 1 seule fois'
+'Quand souhaitez vous que la tâche s''éxécute ?': 'Quand souhaitez vous que la tâche s''éxécute ?'
+'Date d''exécution': 'Date d''exécution'
+Fichiers: Fichiers
+'Web FTP': 'Web FTP'
+'Accès FTP': 'Accès FTP'
+WebFTP: WebFTP
+'Comptes FTP': 'Comptes FTP'
+'Nous mettons à votre disposition un accès FTP vous permettant d''accéder aux différents fichiers de votre serveur de jeu.': 'Nous mettons à votre disposition un accès FTP vous permettant d''accéder aux différents fichiers.'
+'Ajouter un compte FTP': 'Ajouter un compte FTP'
+Compte: Compte
+'Adresse:': 'Adresse:'
+Chemin: Chemin
+'Nouveau mot de passe': 'Nouveau mot de passe'
+'Edition "%account%"': 'Edition "%account%"'
+'Indiquez le Chemin sur le serveur FTP.': 'Indiquez le Chemin sur le serveur FTP.'
+'Indiquez le mot de passe': 'Indiquez le mot de passe'
+'Ajouter le compte FTP': 'Ajouter le compte FTP'
+'Le compte FTP a bien été ajouté.': 'Le compte FTP a bien été ajouté.'
+'Ajout d''un compte FTP': 'Ajout d''un compte FTP'
+'Modification config': 'Modification config'
+Début: Début
+Fin: Fin
+'MySQL & Site Internet': 'MySQL & Site Internet'
+'Nous mettons à votre disposition un hébergement web avec votre serveur ainsi qu''une base de donnée MySQL.': 'Nous mettons à votre disposition un hébergement web avec votre serveur ainsi qu''une base de donnée MySQL.'
+'Pour activer votre hébergement, veuillez commander gratuitement un nouvel hébergement sur notre site internet :': 'Pour activer votre hébergement, veuillez commander gratuitement un nouvel hébergement sur notre site internet :'
+'Commander mon hébergement gratuit': 'Commander mon hébergement gratuit'
+'Attention, cette action est irréversible et entrainera la perte des données de votre serveur.': 'Attention, cette action est irréversible et entrainera la perte des données de votre serveur.'
+'Une action est en cours sur votre serveur, veuillez attendre la fin de son éxécution avant de pouvoir réinstaller le serveur.': 'Une action est en cours sur votre serveur, veuillez attendre la fin de son éxécution avant de pouvoir réinstaller le serveur.'
+'En cas de problème avec votre serveur, vous pouvez demander une réinstallation de celui-ci.': 'En cas de problème avec votre serveur, vous pouvez demander une réinstallation de celui-ci.'
+'Le serveur est en cours de réinstallation': 'Le serveur est en cours de réinstallation'
+'Êtes-vous sûr de vouloir supprimer ce compte FTP ?': 'Êtes-vous sûr de vouloir supprimer ce compte FTP ?'
+'Supprimer le compte FTP': 'Supprimer le compte FTP'
+'Supprimer "%account%"': 'Supprimer "%account%"'
+'Le compte a bien été supprimé': 'Le compte a bien été supprimé'
+'Le mot de passe a été modifié.': 'Le mot de passe a été modifié.'
+'Votre serveur est automatiquement sauvegardé toutes les 6 heures, ainsi qu''à chaque arrêt de celui-ci.': 'Votre serveur est automatiquement sauvegardé toutes les 6 heures, ainsi qu''à chaque arrêt de celui-ci.'
+'Vous pouvez en 1 clic restaurer une sauvegarde d''un de vos mondes.': 'Vous pouvez en 1 clic restaurer une sauvegarde de vos mondes.'
+'Pour cela, choississez ci-dessous le monde que vous souhaitez restaurer :': 'Pour cela, choississez ci-dessous le monde que vous souhaitez restaurer :'
+'Liste des sauvegardes "%world%"': 'Liste des sauvegardes "%world%"'
+'Liste des sauvegardes du monde %world% :': 'Liste des sauvegardes:'
+'Restaurer une sauvegarde': 'Restaurer une sauvegarde'
+'Etes-vous sûr de vouloir restaurer cette sauvegarde ?': 'Etes-vous sûr de vouloir restaurer cette sauvegarde ?'
+Sauvegarde: Sauvegarde
+'Restaurer la sauvegarde': 'Restaurer la sauvegarde'
+'Une action est en cours sur votre serveur, veuillez attendre la fin de son éxécution avant de pouvoir restaurer une sauvegarde.': 'Une action est en cours sur votre serveur, veuillez attendre la fin de son éxécution.'
+'Changement password FTP': 'Changement password FTP'
+'Suppresion compte FTP': 'Suppresion compte FTP'
+'Réinstallation serveur': 'Réinstallation serveur'
+'Votre serveur Minecraft doit être online pour pouvoir gérer la whitelist du serveur.': 'Votre serveur Minecraft doit être online pour pouvoir gérer la whitelist du serveur.'
+'Votre serveur Minecraft doit être online pour pouvoir gérer la liste des bannis du serveur.': 'Votre serveur Minecraft doit être online pour pouvoir gérer la liste des bannis du serveur.'
+'Votre serveur Minecraft doit être online pour pouvoir bannir une adresse IP du serveur.': 'Votre serveur Minecraft doit être online pour pouvoir bannir une adresse IP du serveur.'
+'Mot de passe serverCommand': 'Mot de passe serverCommand'
+'Anti-cheat BattlEye': 'Anti-cheat BattlEye'
+'Activer l''anti-cheat BattleEye': 'Activer l''anti-cheat BattleEye'
+'Mods Actifs': 'Mods Actifs'
+'Ajouter un mod': 'Ajouter un mod'
+'Nom du mod': 'Nom du mod'
+'Aucun mod n''est actif sur le serveur.': 'Aucun mod n''est actif sur le serveur.'
+'Veuillez indiquer le nom du module :': 'Veuillez indiquer le nom du module :'
+'Nom du module': 'Nom du mod'
+'Ajouter le module': 'Ajouter le mod'
+'Le module a bien été ajouté et sera pris en compte au prochain reboot du serveur.': 'Le module a bien été ajouté et sera pris en compte au prochain reboot du serveur.'
+'Supprimer %modName%': 'Supprimer %modName%'
+'Êtes-vous sûr de vouloir supprimer le mod %modName% ?': 'Êtes-vous sûr de vouloir supprimer le mod %modName% ?'
+'Le mod ne sera plus pris en compte au prochain reboot du serveur.': 'Le mod ne sera plus pris en compte au prochain reboot du serveur.'
+'Suppression d''un mod': 'Suppression d''un mod'
+'Ajout d''un mod': 'Ajout d''un mod'
+'Nous avons mis en place un système permettant de détecter des backdoors contenu dans vos addons.': 'Nous avons mis en place un système permettant de détecter des backdoors contenu dans vos addons.'
+'Si une backdoor est détectée, vous serez averti par e-mail, ainsi que dans le manager.': 'Si une backdoor est détectée, vous serez averti par e-mail, ainsi que dans le manager.'
+'Protégez-vous des exploits': 'Protégez-vous des exploits'
+'En complément de notre système de protection, nous vous recommandons d''installer gratuitement l''addon SNTE (Say No To Exploits) via le workshop.': 'En complément de notre système de protection, nous vous recommandons d''installer gratuitement l''addon SNTE (Say No To Exploits) via le workshop.'
+'Sécurité & Backdoor': 'Sécurité & Backdoor'
+'Backdoor & Securité': 'Backdoor & Securité'
+'Serveur en cours de démarrage sur gmod.': 'Serveur en cours de démarrage sur gmod.'
+Fichier: Fichier
+Ligne: Ligne
+'Aucun backdoor n''a été détecté sur votre serveur.': 'Aucun backdoor n''a été détecté sur votre serveur.'
+'Workshop STEAM': 'Workshop STEAM'
+'Pour utiliser le workshop, vous devez créer gratuitement une clé API sur le site de steam:': 'Pour utiliser le workshop, vous devez créer gratuitement une clé API sur le site de steam:'
+'Vous pouvez utilisez une carte présente sur le disque ou provenant du workshop.': 'Vous pouvez utilisez une carte présente sur le disque ou provenant du workshop.'
+'Pour créer votre propre collection, rendez-vous sur steam:': 'Pour créer votre propre collection, rendez-vous sur steam:'
+'Modifier la clé API STEAM': 'Modifier la clé API STEAM'
+'Une fois votre clé crée, veuillez l''indiquer dans le formulaire ci-dessous pour l''utiliser sur votre serveur :': 'Une fois votre clé crée, veuillez l''indiquer dans le formulaire ci-dessous pour l''utiliser sur votre serveur :'
+'Clé API Steam': 'Clé API Steam'
+'Indiquez votre clé API': 'Indiquez votre clé API'
+'Modifier la clé API': 'Modifier la clé API'
+'La clé d''api STEAM a bien été modifié.': 'La clé d''api STEAM a bien été modifié.'
+'Utiliser une map présente sur le serveur FTP': 'Utiliser une map présente sur le serveur FTP'
+'Modifier la carte de démarrage': 'Modifier la carte de démarrage'
+'Utiliser une map présente sur le Workshop STEAM': 'Utiliser une map présente sur le Workshop STEAM'
+'Indiquez le nom de votre carte': 'Indiquez le nom de votre carte'
+'La map de démarrage a bien été modifié.': 'La map de démarrage a bien été modifié.'
+'Détail Backdoor': 'Détail Backdoor'
+Détection: Détection
+Script: Script
+Fermer: Fermer
+'Collection Workshop': 'Collection Workshop'
+'Mirroir FastDownload': 'Mirroir FastDownload'
+FastDownload: FastDownload
+'Installation de carte': 'Installation de carte'
+'Nous mettons à votre disposition un mirroir automatiquement synchronisé pour le téléchargement rapide des fichiers sur votre serveur.': 'Nous mettons à votre disposition un mirroir automatiquement synchronisé pour le téléchargement rapide des fichiers sur votre serveur.'
+'Pour l''utiliser, il vous suffit d''ajouter la ligne ci-dessous dans le fichier server.cfg de votre serveur :': 'Pour l''utiliser, il vous suffit d''ajouter la ligne ci-dessous dans le fichier server.cfg de votre serveur :'
+Copier: Copier
+'Installation Cartes': 'Installation Cartes'
+'Nous vous conseillons d''installer les cartes de votre serveur via le Workshop afin de pouvoir bénéficier des dernières mises à jours.': 'Nous vous conseillons d''installer les cartes de votre serveur via le Workshop afin de pouvoir bénéficier des dernières mises à jours.'
+'Grâce à notre outil d''installation automatique de maps, vous pouvez ajouter en 1 clic des cartes sur votre serveur.': 'Grâce à notre outil d''installation automatique de maps, vous pouvez ajouter en 1 clic des cartes sur votre serveur.'
+'Mode de jeu': 'Mode de jeu'
+'Indiquez le mot de passe (si vous souhaitez rendre votre serveur privé)': 'Indiquez le mot de passe (si vous souhaitez rendre votre serveur privé)'
+'Modifier RCON password': 'Modifier RCON password'
+'Indiquez le mot de passe administrateur': 'Indiquez le mot de passe administrateur'
+'Modifier le mode de jeu': 'Modifier le mode de jeu'
+'Indiquez le mode de jeu (ex': 'Indiquez le mode de jeu (ex: sandbox)'
+'Message de bienvenue affiché à la connexion': 'Message de bienvenue affiché à la connexion'
+'URL du mirroir à utiliser pour le fastdownload': 'URL du mirroir à utiliser pour le fastdownload'
+'Autoriser la mise en pause du serveur par les joueurs': 'Autoriser la mise en pause du serveur par les joueurs'
+'Décalage en secondes entre la SourceTV et la partie': 'Décalage en secondes entre la SourceTV et la partie'
+'Activer la SourceTV au démarrage du serveur ?': 'Activer la SourceTV au démarrage du serveur ?'
+'Si activé, les joueurs peuvent tirer sur les joueurs de leurs propre équipe': 'Si activé, les joueurs peuvent tirer sur les joueurs de leurs propre équipe'
+'Nombre de minutes avant changement de la carte': 'Nombre de minutes avant changement de la carte'
+'Activer le mode triche ?': 'Activer le mode triche ?'
+'Si activé, les joueurs seront invincibles': 'Si activé, les joueurs seront invincibles'
+'Si activé, les joueurs peuvent blesser les autres joueurs': 'Si activé, les joueurs peuvent blesser les autres joueurs'
+'Active le mode passe muraille': 'Active le mode passe muraille'
+'Nombre d''objets maximum par joueur': 'Nombre d''objets maximum par joueur'
+'Nombre maximum de Marionettes (Ragdolls)': 'Nombre maximum de Marionettes (Ragdolls)'
+'Nombre maximum de Npc': 'Nombre maximum de Npc'
+'Nombre maximum de ballons': 'Nombre maximum de ballons'
+'Nombre maximum d''effets': 'Nombre maximum d''effets'
+'Nombre maximum de dynamites': 'Nombre maximum de dynamites'
+'Nombre maximum de lampes': 'Nombre maximum de lampes'
+'Nombre maximum de propulseurs': 'Nombre maximum de propulseurs'
+'Nombre maximum de roues': 'Nombre maximum de roues'
+'Nombre maximum de véhicules': 'Nombre maximum de véhicules'
+'Nombre maximum de boules de gravité (Hoverballs)': 'Nombre maximum de boules de gravité (Hoverballs)'
+'Nombre maximum de bouttons': 'Nombre maximum de bouttons'
+'Nombre maximum d''entités': 'Nombre maximum d''entités'
+'Nombre maximum d''éméteurs': 'Nombre maximum d''éméteurs'
+'Nombre de FPS maximum (conseillé': 'Nombre de FPS maximum (conseillé: 0)'
+'Limite le rate minimum autorisé pour les joueurs (conseillé: 1048576)': 'Limite le rate minimum autorisé pour les joueurs (conseillé: 1048576)'
+'Limite le nombre maximum de paquets que les joueurs peuvent envoyer': 'Limite le nombre maximum de paquets que les joueurs peuvent envoyer'
+'Limite le rate maximum autorisé pour les joueurs (conseillé: 0)': 'Limite le rate maximum autorisé pour les joueurs (conseillé: 0)'
+'Limite le nombre minimim de paquets que les joueurs peuvent envoyer (conseillé: 66)': 'Limite le nombre minimim de paquets que les joueurs peuvent envoyer (conseillé: 66)'
+'Permet de créer des textes 2D/3D flottants n''importe où !': 'Permet de créer des textes 2D/3D flottants n''importe où !'
+GitHub: GitHub
+'Fiche Workshop': 'Fiche Workshop'
+'Vous ne devez éditer aucun des fichiers core de DarkRP (gamemodes/darkrp/*). C''est pourquoi cet addon existe.': 'Vous ne devez éditer aucun des fichiers core de DarkRP (gamemodes/darkrp/*). C''est pourquoi cet addon existe.'
+Tutoriels: Tutoriels
+Générateurs: Générateurs
+'Version améliorée du stacker.': 'Version améliorée du stacker.'
+'Site officiel': 'Site officiel'
+'Système de shop pour gmod (core).': 'Système de shop pour gmod (core).'
+Documentation: Documentation
+'Ajout de skins': 'Ajout de skins'
+'pointshop-extras ajoute des éléments de base pour PointShop.': 'pointshop-extras ajoute des éléments de base pour PointShop.'
+'Ajoute le precision tool pour manipuler les objets avec précision.': 'Ajoute le precision tool pour manipuler les objets avec précision.'
+'Permet aux joueurs de s''assoir n''import où.': 'Permet aux joueurs de s''assoir n''import où.'
+'ULX est un addon pour Garry''s Mod crée pour gérer son Serveur facilement grâce à un Panel, l''addon a besoin de ULIB pour fonctionner nous verrons d''ailleurs comment l''installer.': 'ULX est un addon pour Garry''s Mod crée pour gérer son Serveur facilement grâce à un Panel, l''addon a besoin de ULIB pour fonctionner nous verrons d''ailleurs comment l''installer.'
+'Utiliser ULX': 'Utiliser ULX'
+'Système d''avertissement ULX': 'Système d''avertissement ULX'
+gmod.plugin.wiremod: 'Ajoute la possibilité de créer des entités liées via "data wire" (ex : robots, ordinateurs, véhicules).'
+'Système d''authentification nécessaire au fonctionnement de ClockWork': 'Système d''authentification nécessaire au fonctionnement de ClockWork'
+'Librairie permettant la génération aléatoire de nombres (nécessaire pour certains modes de jeux)': 'Librairie permettant la génération aléatoire de nombres (nécessaire pour certains modes de jeux)'
+'Topic Facepunch': 'Topic Facepunch'
+'Système d''authentification par mot de passe ou par reconnaissance de SteamID': 'Système d''authentification par mot de passe ou par reconnaissance de SteamID'
+'Ajout du support des connexions socket avec le serveur.': 'Ajout du support des connexions socket avec le serveur.'
+'Ajoute le support des types UInt64 et Int64, ainsi que la gestion de fichiers.': 'Ajoute le support des types UInt64 et Int64, ainsi que la gestion de fichiers.'
+'Librairie permettant de récupérer le nombre de FPS des joueurs.': 'Librairie permettant de récupérer le nombre de FPS des joueurs.'
+'Librairie permettant d''ajouter une couche de sécurité pour contrer certains types d''attaques contre le moteur Source Engine.': 'Librairie permettant d''ajouter une couche de sécurité pour contrer certains types d''attaques contre le moteur Source Engine.'
+'Librairie permettant une connexion de connecter les addons à une base de données MySQL (obsolète)': 'Librairie permettant une connexion de connecter les addons à une base de données MySQL'
+'Librairie permettant de personnaliser les voitures': 'Librairie permettant de personnaliser les voitures'
+'Mode de jeu cinéma basé sur du streaming de contenu depuis Youtube, Viméo, etc.': 'Mode de jeu cinéma basé sur du streaming de contenu depuis Youtube, Viméo, etc.'
+'Librairie nécessaire pour l''utilisation de DRM pour certains addons.': 'Librairie nécessaire pour l''utilisation de DRM pour certains addons.'
+'Mode de jeu DarkRP pour ajouter une couche RolePlay au serveur.': 'Mode de jeu DarkRP pour ajouter une couche RolePlay au serveur.'
+'Mode de jeu de football américain.': 'Mode de jeu de football américain.'
+'Mode de jeu de batailles spaciales taillé pour la compétition.': 'Mode de jeu de batailles spaciales taillé pour la compétition.'
+'Mode de jeu type cache-cache combinant plusieurs styles de jeux.': 'Mode de jeu type cache-cache combinant plusieurs styles de jeux.'
+'Ancienne version du célèbre mode de jeu Jailbreak qui consiste à simuler une prison.': 'Ancienne version du célèbre mode de jeu Jailbreak qui consiste à simuler une prison.'
+'Mode de jeu style PropHunt où tout casser est la seule règle !': 'Mode de jeu style PropHunt où tout casser est la seule règle !'
+'Mode de jeu inspiré de Murder in the Dark, 1 tueur au couteau doit secrètement tuer les autres joueurs.': 'Mode de jeu inspiré de Murder in the Dark, 1 tueur au couteau doit secrètement tuer les autres joueurs.'
+'Mode de jeu PropHunt en version originale': 'Mode de jeu PropHunt en version originale'
+'Version Workshop à jour (recommandée)': 'Version Workshop à jour (recommandée)'
+'Mode de jeu de batailles navales': 'Mode de jeu de batailles navales'
+'Mode de jeu slashers, inspiré des films d''horreur.': 'Mode de jeu slashers, inspiré des films d''horreur.'
+'Mode de jeu remake du jeu The Hidden : Source où des joueurs doivent coopérer pour tuer les joueurs invisibles.': 'Mode de jeu remake du jeu The Hidden : Source où des joueurs doivent coopérer pour tuer les joueurs invisibles.'
+'Mode de jeu zombies vs survivants.': 'Mode de jeu zombies vs survivants.'
+'Installer le plugin': 'Installer le plugin'
+'Etes-vous sûr de vouloir installer le plugin %pluginName% ?': 'Etes-vous sûr de vouloir installer le plugin %pluginName% ?'
+'Le plugin est en cours d''installation.': 'Le plugin est installé, vous devez redémarrer votre serveur et configurer le package.'
+'Configuraton rapide': 'Configuration rapide'
+'Veuillez patienter quelques instants, votre serveur sera bientôt prêt à être configuré.': 'Veuillez patienter quelques instants, votre serveur sera bientôt prêt à être configuré.'
+'Commencer la configuration': 'Commencer la configuration'
+'Bienvenue dans votre manager': 'Bienvenue dans votre manager'
+'Pour commencer la configuration de votre serveur, cliquez ci-dessous :': 'Pour commencer la configuration de votre serveur, cliquez ci-dessous :'
+'Paramètres généraux': 'Paramètres généraux'
+'Etape suivante': 'Etape suivante'
+recommandé: recommandé
+facultatif: facultatif
+'Pour finaliser la configuration rapide, veuillez effectuer un redémarrage du serveur :': 'Pour finaliser la configuration rapide, veuillez effectuer un redémarrage du serveur :'
+'Redémarrer le serveur': 'Redémarrer le serveur'
+'Configuration terminée ;)': 'Configuration terminée ;)'
+'Le serveur est en cours de reboot.': 'Le serveur est en cours de reboot.'
+'Modification MOTD': 'Modification MOTD'
+'Modification map de démarrage': 'Modification map de démarrage'
+'Modification map démarrage': 'Modification map démarrage'
+'Modification API Key': 'Modification API Key'
+'Activer l''eBot': 'Activer l''eBot'
+'L''eBot est un bot de gestion de match complet pour CS:GO. Il vous permet de gérer vos matches et de récupérer des statistiques diverses tels que le nombre de HeadShot, le nombre de 1vX rempor': 'L''eBot est un bot de gestion de match complet pour CS:GO. Il vous permet de gérer vos matches et de récupérer des statistiques diverses tels que le nombre de HeadShot, le nombre de 1vX remportés par un joueur, etc.'
+'L''eBot n''est actuellement pas installé sur votre serveur.': 'L''eBot n''est actuellement pas installé sur votre serveur.'
+Installation: Installation
+'Veuillez ajouter la ligne suivante en bas du fichier server.cfg de votre serveur, et effectuer un reboot.': 'Veuillez ajouter la ligne suivante en bas du fichier server.cfg de votre serveur, et effectuer un reboot.'
+'Adresse de l''eBot': 'Adresse de l''eBot'
+'Pour activer l''eBot sur votre serveur, veuillez compléter le formulaire ci-dessous qui créera le compte Admin sur votre eBot.': 'Pour activer l''eBot sur votre serveur, veuillez compléter le formulaire ci-dessous qui créera le compte Admin sur votre eBot.'
+'Mot de passe Admin': 'Mot de passe Admin'
+'Ce mot de passe permet de vous connnecter en administrateur à l''eBot.': 'Ce mot de passe permet de vous connnecter en administrateur à l''eBot.'
+'La carte actuelle n''est pas prise en charge.': 'La carte actuelle n''est pas prise en charge.'
+'Pour fonctionner, ajoutez dans votre server.cfg la config suivante :': 'Pour fonctionner, ajoutez dans votre server.cfg la config suivante :'
+Aide: Aide
+'Légende carte': 'Légende carte'
+'Position Contre-Terroriste Mort': 'Position Contre-Terroriste Mort'
+'Position Terroriste Mort': 'Position Terroriste Mort'
+'Position du Contre-Terroriste pour effectuer son kill': 'Position du Contre-Terroriste pour effectuer son kill'
+'Position du Terroriste pour effectuer son kill': 'Position du Terroriste pour effectuer son kill'
+'Position flashbang': 'Position flashbang'
+'Position grenade HE': 'Position grenade HE'
+'Position grenade fumigène': 'Position grenade fumigène'
+'Cartes prises en charge': 'Cartes prises en charge'
+'Les cartes actuellement acceptées sur la LiveMap 2D sont listées ci-dessous :': 'Les cartes actuellement acceptées sur la LiveMap 2D sont listées ci-dessous :'
+'Module (classic, competitive, ..)': 'Module (classic, competitive, ..)'
+'Map Group': 'Map Group'
+'MapGroup CSGO': 'MapGroup CSGO'
+MapGroup: MapGroup
+'Changer de module': 'Changer de module'
+'Une action est en cours sur votre serveur, veuillez attendre la fin de son éxécution avant de pouvoir changer de module.': 'Une action est en cours sur votre serveur, veuillez attendre la fin de son éxécution avant de pouvoir changer de module.'
+'Kicker automatiquement les joueurs inactifs ?': 'Kicker automatiquement les joueurs inactifs ?'
+'Equilibrage automatique des équipes ?': 'Equilibrage automatique des équipes ?'
+'Nombre de secondes après le début du round pendant lesquelles les joueurs peuvent acheter': 'Nombre de secondes après le début du round pendant lesquelles les joueurs peuvent acheter'
+'Nombre de secondes nécessaires à la bombe pour exploser': 'Nombre de secondes nécessaires à la bombe pour exploser'
+'Durée du warmup': 'Durée du warmup'
+'Nombre de secondes au début du round pendant lequelles les joueurs sont immobilisés': 'Nombre de secondes au début du round pendant lequelles les joueurs sont immobilisés'
+'Différence de joueurs max avant rééquilibrage des équipes si l''autoteam balance est activé.': 'Différence de joueurs max avant rééquilibrage des équipes si l''autoteam balance est activé.'
+'Argent que recevront les joueurs au démarrage de la partie': 'Argent que recevront les joueurs au démarrage de la partie'
+'Durée d''un round (en minutes)': 'Durée d''un round (en minutes)'
+'Si activé, les joueurs qui tuent les coéquipiers seront punis': 'Si activé, les joueurs qui tuent les coéquipiers seront punis'
+'Nombre de FPS maximum (conseillé: 0)': 'Nombre de FPS maximum (conseillé: 0)'
+'Serveur en cours de démarrage.': 'Serveur en cours de démarrage.'
+'Réinstallation du serveur en cours.': 'Réinstallation du serveur en cours.'
+'Restauration des cfg par défaut en cours.': 'Restauration des cfg par défaut en cours.'
+'Mise à jour du jeu en cours.': 'Mise à jour du jeu en cours.'
+'Aucun hostname': 'Aucun hostname'
+'Vous n''avez aucun historique API.': 'Vous n''avez aucun historique API.'
+'RCON Actif': 'RCON Actif'
+'Durée de l''affichage du message de bienvenue': 'Durée de l''affichage du message de bienvenue'
+'Mode PVE': 'Mode PVE'
+'Mode Hardcore': 'Mode Hardcore'
+'Vue à la 3ème personne': 'Vue à la 3ème personne'
+'Chat vocal global': 'Chat vocal global'
+'Chat de proximité': 'Chat de proximité'
+'Afficher les joueurs sur la carte': 'Afficher les joueurs sur la carte'
+'Mod TotalConversion': 'Mod TotalConversion'
+'Mods Workshop': 'Mods Workshop'
+'Aucun log dans la console, les nouvelles lignes apparaîtront automatiquement ;)': 'Aucun log dans la console, les nouvelles lignes apparaîtront automatiquement ;)'
+'Spécifie la fréquence du spawn des ressources (arbres, pierres etc...)': 'Spécifie la fréquence du spawn des ressources (arbres, pierres etc...)'
+'Contenu de jeu (css, hl2, ..)': 'Contenu de jeu (css, hl2, ..)'
+'Contenu de jeu (css, ..)': 'Contenu de jeu (css, ..)'
+webftp.help: "L'envoi de fichiers via WebFTP est limité à 100Mo. Pour transférer de nombreux fichiers et/ou fichiers lourds, veuillez utiliser votre accès FTP au moyen des identifiants de connexion mentionnés dans le sous-menu FTP."
+workshop.how_to_collection: "Pour utiliser une collection du workshop, indiquez son identifiant dans le formulaire ci-dessous."
+workshop.find_collection_id: "Pour trouver l'identifiant d'une collection, récupérez dans le lien du workshop, l'ID qui est dans l'URL : ?id=XXXXXX"
+workshop.remove_files: "En cas de problème dans l'utilisation d'une collection workshop, essayez de supprimer les fichiers :"
+Modifier la collection STEAM: Modifier la collection STEAM
+joueurs max: joueurs max
+wizard.gmod.more: "Pour aller plus loin, notre base de connaissances, ainsi que notre forum d'entraide sont à votre disposition:"
+Librairie permettant de créer des Websockets.: Librairie permettant de créer des Websockets.
+Librairie permettant de créer des sockets LUA.: Librairie permettant de créer des sockets LUA.
+Librairie nécessaire pour l'utilisation de DRM pour les addons wiltOS.: Librairie nécessaire pour l'utilisation de DRM pour les addons wiltOS.
+Nous mettons à votre disposition un mirroir web pour télécharger vos démos.: Nous mettons à votre disposition un mirroir web pour télécharger vos démos.
+Copier le lien: Copier le lien
+Vous pouvez récupérer et/ou restaurer en 1 clic une sauvegarde complète de votre serveur.: Vous pouvez récupérer et/ou restaurer en 1 clic une sauvegarde complète de votre serveur.
+Ou souhaitez-vous restaurer cette sauvegarde ?: Ou souhaitez-vous restaurer cette sauvegarde ?
+Remplacer l'intégralité de mon serveur par cette sauvegarde (irréversible): Remplacer l'intégralité de mon serveur par cette sauvegarde (irréversible)
+Récupérer la sauvegarde dans le dossier /backup, sans remplacer votre serveur actuel: Récupérer la sauvegarde dans le dossier /backup, sans remplacer votre serveur actuel
+'Tutoriel: créer un rapport de performances': 'Tutoriel: créer un rapport de performances'
+minecraft.timing.howto: "Diagnostiquer les problèmes de ralentissement / lags n'est pas toujours chose aisée, il existe néanmoins un outil pour identifier facilement l''origine de problèmes de performances, le système de rapport 'timings'."
+layout.extend.warning2: Le saviez-vous ? Obtenez 10% de réduction sur toute prolongation d'une durée de 3 mois.
+layout.extend.warning1: Attention, votre serveur va expirer. Pour le prolonger, rendez-vous dans la section "Prolongation".
+uihelp.dashboard.console: "La console affiche en temps réel les logs du serveur permettant d'identifier facilement les erreurs."
+uihelp.dashboard.cvar: "Vous pouvez envoyer des commandes au serveur (ex: <code>help</code>)."
+uihelp.dashboard.status: "Statut live de votre serveur."
+uihelp.dashboard.actions: "Exécutez des actions sur votre serveur. <code>Kill</code> permet de forcer le stop du serveur en cas de plantage."
+uihelp.dashboard.perfs: "Visionnez les performances de votre serveur en temps réel. La section <b>tutoriels</b> peut vous aider à optimiser votre serveur."
+Distance de visualisation: Distance de visualisation
+view_distance_help: "Ce réglage permet de modifier la distance de visualisation côté serveur, elle détermine le rayon dans lequel le joueur peut voir le monde. Avec une valeur élevée, vos joueurs verront plus loin, au détriment des performances (RAM / CPU)."
+change_offer.trial1: "Le changement d'offre en 1 clic n'est pas autorisé sur les serveurs en trial."
+change_offer.trial2: "Pour changer d'offre, vous pouvez commander un nouveau serveur ou prolonger celui-ci et ensuite changer l'offre, la date d'expiration sera automatiquement recalculée au propata."
+'Délai en millisecondes après lequel un joueur qui ne répond pas sera ejecté. Compris entre 10000 et 20000 millisecondes.': 'Délai en millisecondes après lequel un joueur qui ne répond pas sera ejecté. Compris entre 10000 et 20000 millisecondes.'
+'Limite le nombre de connexions par IP. Les nouvelles connexions dépassant ce nombre sont abandonnées immédiatement.': 'Limite le nombre de connexions par IP. Les nouvelles connexions dépassant ce nombre sont abandonnées immédiatement.'
+'Mettre à true pour que votre serveur soit listé dans la liste des serveurs du jeu, sinon false.': 'Mettre à true pour que votre serveur soit listé dans la liste des serveurs du jeu, sinon false.'
+'Distance à laquelle vous pouvez entendre les autres joueurs parler in-game.': 'Distance à laquelle vous pouvez entendre les autres joueurs parler in-game.'
+'Mettre true pour rendre le son VoIP en 3D, y compris la spatialisation et la réduction, sinon false.': 'Mettre true pour rendre le son VoIP en 3D, y compris la spatialisation et la réduction, sinon false.'
+"Fréquence d'échantillonnage VoIP, un débits plus élevés = meilleure qualité mais nécessite plus de bande passante. Les valeurs acceptées sont 8000, 12000, 16000, 24000 et 48000.": "Fréquence d'échantillonnage VoIP, un débits plus élevés = meilleure qualité mais nécessite plus de bande passante. Les valeurs acceptées sont 8000, 12000, 16000, 24000 et 48000."
+Nom court du serveur: Nom court du serveur (Discord/STEAM)
+URL de votre site: URL de votre site
+Active le tchat vocal: Active le tchat vocal
+"Le fichier de configuration principal n'a pas été trouvé, si une mise à jour est en cours, veuillez patienter ;)": "Le fichier de configuration principal n'a pas été trouvé, si une mise à jour est en cours, veuillez patienter ;)"
+Plugin pour utiliser la base de donnée MariaDB dans ses packages.: Plugin pour utiliser la base de donnée MariaDB dans ses packages.
+API permettant de traduire les packages.: API permettant de traduire les packages.
+Mettez en place une whitelist pour filtrer les joueurs.: Mettez en place une whitelist pour filtrer les joueurs.
+Mode de jeu Godfather basé sur celui de samp.: Mode de jeu Godfather basé sur celui de samp.
+Mode de jeu Onset RP Framework.: Mode de jeu Onset RP Framework.
+API permettant de traduire les packages (Godfather, OnsetRP).: API permettant de traduire les packages (Godfather, OnsetRP).
+API permettant de traduire les packages, nécessaire pour le package whitelist.: API permettant de traduire les packages, nécessaire pour le package whitelist.
+restore_trial.text1: "La restauration d'un serveur expiré n'est pas autorisée sur les serveurs en trial."
+restore_trial.text2: "Pour restaurer un ancien serveur, vous devez avoir un contrat actif."
+Plugins Spigot: Plugins Spigot
+Plugins Bukkit: Plugins Bukkit
+chat: Tchat
+game-mode: Mode de jeu
+libraries-apis: Librairies/API
+misc: Divers
+skript: Skript
+tools-and-utilities: Outils
+transportation: Transport
+universal: Universel
+world-management: Gestion des mondes
+Versions Minecraft Conseillées: Version Minecraft
+Plugins BungeeCord: Plugins BungeeCord
+Pour des raisons techniques, il vous faut attendre la première génération de map pour pouvoir modifier le paramétrage, qui aura lieu cette nuit.: Pour des raisons techniques, il vous faut attendre la première génération de map pour pouvoir modifier le paramétrage, qui aura lieu cette nuit.
+action.success: "%actionName% en cours"
+Mode de jeu Freeroam.: Mode de jeu Freeroam.
+"Vous n'avez fait aucun changement d'offre sur ce serveur.": "Vous n'avez fait aucun changement d'offre sur ce serveur."
+Ancienne offre: Ancienne offre
+Nouvelle offre: Nouvelle offre
+Historique: Historique
+"Vous pouvez aussi vous connecter en SFTP à votre serveur:": "Vous pouvez aussi vous connecter en SFTP à votre serveur:"
+Désactivé: Désactivé
+Créer un nouveau cluster: Créer un nouveau cluster
+Générer un cluster ID: Générer un cluster ID
+"Vous souhaitez créer un cluster afin de relier plusieurs serveurs ARK entre-eux ? Pour cela, tous les serveurs du cluster doivent partager un même identifiant de cluster (Cluster ID).": "Vous souhaitez créer un cluster afin de relier plusieurs serveurs ARK entre-eux ? Pour cela, tous les serveurs du cluster doivent partager un même identifiant de cluster (Cluster ID)."
+Le cluster ID a bien été généré.: Le cluster ID a bien été généré. Veuillez redémarrer votre serveur pour appliquer la modification.
+Rejoindre le cluster: Rejoindre le cluster
+Modification effectuée. Veuillez redémarrer votre serveur pour appliquer la modification.: Modification effectuée. Veuillez redémarrer votre serveur pour appliquer la modification.
+Vérifier ma configuration: Vérifier ma configuration
+minecraft.optimize.howto: "Spigot et Paper proposent des paramètres qui peuvent améliorer considérablement les performances de votre serveur Minecraft. Si votre serveur lag, vous pouvez rapidement vérifier si la config de votre serveur Minecraft est correctement optimisée."
+Cracké: Mode Online
+Forcer le mode de jeu: Forcer le mode de jeu
+Avancé: Avancé
+Help: Aide
+Accès ami: Gérer les collaborateurs
+Partager le log: Partager le log
+Pour partager votre logs, diffusez l'URL suivante: Pour partager votre logs, diffusez l'URL suivante
+Dernier log partagé: Dernier log partagé
+Optimisations automatiques: Optimisations automatiques
+Permet de désactiver les optimisations automatiques de vos fichiers bukkit.yml, spigot.yml et paper.yml. Il est déconseillé de désactiver cette option.: Permet de désactiver les optimisations automatiques de vos fichiers bukkit.yml, spigot.yml et paper.yml.
+La whitelist n'est pas activé sur votre serveur. Pour l'activer, rendez-vous dans le menu configuration.: La whitelist n'est pas activée sur votre serveur. Pour l'activer, rendez-vous dans le menu configuration.
+Votre serveur est configuré pour autoriser les jeux crackés, vous ne pouvez pas ajouter un joueur dans la whitelist si celui-ci ne s'est pas déja connecté au serveur.: Votre serveur est configuré pour autoriser les jeux crackés, vous ne pouvez pas ajouter un joueur dans la whitelist si celui-ci ne s'est pas déja connecté au serveur.
+Voici la procédure à suivre pour chaque joueur sur un serveur autorisant les jeux crackés: Voici la procédure à suivre pour chaque joueur sur un serveur autorisant les jeux crackés
+Désactivez la whitelist et redémarrez votre serveur: Désactivez la whitelist et redémarrez votre serveur
+Le joueur doit se connecter au serveur: Le joueur doit se connecter au serveur
+Ajoutez le joueur dans la whitelist: Ajoutez le joueur dans la whitelist
+Activez la whitelist et redémarrez votre serveur: Activez la whitelist et redémarrez votre serveur
+Votre serveur est configuré pour autoriser les jeux crackés, vous ne pouvez pas ajouter un joueur dans les opérateurs si celui-ci ne s'est pas déja connecté au serveur.: Votre serveur est configuré pour autoriser les jeux crackés, vous ne pouvez pas ajouter un joueur dans les opérateurs si celui-ci ne s'est pas déja connecté au serveur.
+Template du message d'arrêt du serveur: Template du message d'arrêt du serveur
+"Message d'arrêt": "Message d'arrêt"
+mTxServ.com - Arret du serveur dans NUMBER_OF_SECONDS secondes: mTxServ.com - Arret du serveur dans NUMBER_OF_SECONDS secondes
+Variable autorisée: Variable autorisée
+Aperçu: Aperçu
+Voir: Voir
+Sauvegardes Mondes: Sauvegardes Mondes
+Vous pouvez en 1 clic restaurer une sauvegarde de votre serveur.: Vous pouvez en 1 clic restaurer une sauvegarde de votre serveur.
+minebackup.list.complete: Sauvegarde intégrale du serveur
+minebackup.list.Saved: Sauvegarde du serveur
+minebackup.list.server: Sauvegarde du serveur
+minebackup.list.server-database: Sauvegarde du serveur
+minebackup.list.plugins: Sauvegarde uniquement des plugins
+minebackup.list.plugin_data: Sauvegarde des données des plugins
+Restaurer: Restaurer
+Recommandé: Recommandé
+Password: Mot de passe
+Kill: Forcer l'arrêt
+Port Admin (RCON): RCON
+Analyser le log: Analyser le log
+Solutions: Solutions
+Des erreurs peuvent être corrigées!: Des erreurs peuvent être corrigées!
+Aucune suggestion suite à l'analyse du log.: Aucune suggestion suite à l'analyse du log.
+Dernier log analysé: Dernier log analysé
+En savoir plus: En savoir plus
+Créer fichier: Créer fichier
+Créer dossier: Créer dossier
+Envoyer fichier: Envoyer fichier
+Taille: Taille
+Dernière modification: Dernière modification
+Vos modifications seront écrasées: Vos modifications seront écrasées
+en cours de préparation: en cours de préparation
+Téléchargements en cours: Téléchargements en cours
+Sélectionnez les fichiers à envoyer: Sélectionnez les fichiers à envoyer
+Uploader: Uploader
+Les fichiers seront envoyés dans le répertoire: Les fichiers seront envoyés dans le répertoire
+Renommer "%path%": Renommer "%path%"
+Êtes-vous sûr de vouloir renommer ce dossier ?: Êtes-vous sûr de vouloir renommer ce dossier ?
+Êtes-vous sûr de vouloir renommer ce fichier ?: Êtes-vous sûr de vouloir renommer ce fichier ?
+Renommer: Renommer
+Êtes-vous sûr de vouloir supprimer ce dossier ?: Êtes-vous sûr de vouloir supprimer ce dossier ?
+Êtes-vous sûr de vouloir supprimer ce fichier ?: Êtes-vous sûr de vouloir supprimer ce fichier ?
+Dossier: Dossier
+Supprimer: Supprimer
+Supprimer "%path%": Supprimer "%path%"
+Nouveau nom: Nouveau nom
+Télécharger: Télécharger
+Sauvegarder: Sauvegarder
+Créer un fichier: Créer un fichier
+Nom du fichier: Nom du fichier
+Créer le fichier: Créer le fichier
+Créer un dossier: Créer un dossier
+Nom du dossier: Nom du dossier
+Créer le dossier: Créer le dossier
+Le fichier est trop volumineux.: "Le fichier est trop volumineux (total: 100Mo max)."
+Attention, votre serveur n'est pas ranké, sv_setsteamaccount manquant dans la configuration.: Attention, votre serveur ne peut pas démarrer correctement. Remplissez la variable sv_setsteamaccount dans l'onglet Configuration pour authentifier votre serveur auprès de STEAM.
+Compte STEAM: Compte STEAM
+Une fois votre token crée, veuillez l'indiquer dans le formulaire ci-dessous pour l'utiliser sur votre serveur.: Une fois votre token crée, veuillez l'indiquer dans le formulaire ci-dessous pour l'utiliser sur votre serveur.
+"Pour que votre serveur puisse démarrer correctement et être ranké sur les serveurs STEAM, vous devez l'associer à votre compte personnel STEAM:": "Pour que votre serveur puisse démarrer correctement et être ranké sur les serveurs STEAM, vous devez l'associer à votre compte personnel STEAM:"
+Ports Ouverts: Ports ouverts
+to: à
+Suivez nous sur Twitter et recevez 1 jour gratuit supplémentaire votre contrat.: Suivez un de nos comptes Twitter et recevez 1 jour gratuit supplémentaire sur votre serveur.
+Vérifier: Vérifier
+Votre compte Twitter: Votre compte Twitter
+twitter account already linked to another account: Ce compte Twitter est déjà lié à un compte.
+you have already linked your twitter account: Vous avez déjà lié votre compte Twitter.
+Merci pour votre soutien, votre contrat a été crédité d'un jour ;) Attention, un unfollow annulera l'action.: Merci pour votre soutien, votre contrat a été crédité d'un jour ;) Attention, un unfollow annulera l'action.
+Vous ne suivez pas le compte @mTxServ :( Si vous venez juste d'effectuer le follow, essayez de patienter quelques minutes et re-testez.: Vous ne suivez pas le compte @mTxServ :( Si vous venez juste d'effectuer le follow, essayez de patienter quelques minutes et re-testez.
+Activer le HTTPS: Activer le HTTPS
+Pour activer le HTTPS (SSL) sur votre domaine, suivez cette procédure: Pour activer le HTTPS (SSL) sur votre domaine, suivez cette procédure
+En cours de démarrage...: En cours de chargement...
+'The "A" record is missing, your DNS zone is invalid. If you have just updated it, wait a few moments before trying again.': 'L''enregistrement "A" est manquant, votre zone DNS n''est pas valide. Si vous venez de la mettre à jour, attendez quelques instants le temps de la propagation avant de réessayer.'
+'The "A" record is incorrect, your DNS zone is invalid. If you have just updated it, wait a few moments before trying again.': 'L''enregistrement "A" est incorrect, votre zone DNS n''est pas valide. Si vous venez de la mettre à jour, attendez quelques instants le temps de la propagation avant de réessayer.'
+'"AAAA" record detected, your DNS zone is invalid. Remove it! If you have just updated it, wait a few moments before trying again.': 'Enregistrement "AAAA" détecté, votre zone DNS n''est pas valide. Retirez-le ! Si vous venez de la mettre à jour, attendez quelques instants le temps de la propagation avant de réessayer.'
+Installer le launcher client: Installer launcher et client
+Options de démarrage du serveur: Options de démarrage du serveur
+ID du mod: ID du mod
+api-plugins: Plugins API
+howto.darkrp: 'Pour installer et configurer un serveur DarkRP, suivez ce tutoriel:'
+howto.rust: 'Pour installer & configurer Oxide / uMod, suivez ce tutoriel:'
+webftp.drag: "Vous pouvez drag & drop des fichiers et/ou dossiers, directement dans la vue principale ou ci-dessous."
+Description & Manuel: Description & Manuel
+howto.minecraftpe_mobs: Pour activer les mobs sur votre serveur, vous devez installer les plugins PureEntitiesX.
+howto.need_pocketmine: Les plugins ne peuvent être installés que sur la version modifiée de Mineraft Bedrock nommée PocketMine. Vous pouvez remplacer la version Minecraft Bedrock Edition officielle actuellement installée sur votre serveur par PocketMine dans l'onglet "Version" de votre panel.
+mapinstaller.howto: "La carte que vous souhaitez installer n'est pas présente? Utilisez votre accès FTP ou WebFTP pour l'installer manuellement. Vous pouvez également nous proposer une carte à ajouter, en ouvrant un ticket support toutes les informations à propos de celle-ci."
+educational: Education
+minigame: Mini-Jeux
+map.gameversion_howto: "Veuillez à sélectionner une carte compatible avec la version minecraft actuelle de votre serveur. Si la version n'est pas identique, nous vous recommandons d'installer la bonne version de minecraft, avant d'installer la carte, sous peine de bug."
+Répertoire de destination: Répertoire de destination
+'La carte va être installée dans le répertoire /minecraft/%target%/ et votre sera sera automatiquement redémarré.': 'La carte va être installée dans le répertoire /minecraft/%target%/ et votre sera sera automatiquement redémarré.'
+Prolonger mon VPS: Prolonger mon VPS
+not-installed: non installé
+Installation du VPS: Installation du VPS
+'Veuillez sélectionner la distribution de votre choix, à installer sur votre VPS:': 'Veuillez sélectionner la distribution de votre choix, à installer sur votre VPS:'
+Version du système d'exploitation: Version du système d'exploitation
+Version de l'OS: Version de l'OS
+"Confirmer le lancement de l'installation": "Confirmer le lancement de l'installation"
+Configuration du réseau en cours: Configuration du réseau en cours..
+pool-moving: Config réseau en cours
+pool-allocated: Sélectionnez la distribution
+os-install: Install OS en cours
+Installation du système en cours..: Installation du système en cours..
+Configuration du système en cours..: Configuration du système en cours..
+installed: Installé
+Votre VPS est prêt: Votre VPS est prêt
+Vos identifiants ont été envoyés par email (vérifiez vos SPAMs).: Vos identifiants ont été envoyés par email (vérifiez vos SPAMs).
+Mo: Mo
+running: Démarré
+deleteRulePending: Suppression
+createRulePending: Création
+Top Serveurs: Top Serveurs
+Translate me!: Traduisez-moi!
+Seed de la carte (map): Seed de la carte (map)
+You need the modded client version to be able to connect to the server. A HarmonyX Mod aimed at improving the gameplay quality of Valheim.: Vous avez besoin de la version du client modifiée (disponible sur le GitHub officiel du mod) pour pouvoir vous connecter au serveur. Un HarmonyX Mod visant à améliorer la qualité de jeu de Valheim.
+En cours de traduction: En cours de traduction

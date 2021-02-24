@@ -1,0 +1,101 @@
+menu:
+    config: Configurer
+    console: Console
+    admin: Admins
+    widget: Widget
+    extend: Prolonger
+    help: Aide
+    help_center: 'Centre d''aide'
+    support: Support
+    reinstall: Réinstaller
+    dashboard: Dashboard
+    ftp: 'Comptes FTP'
+    files: Fichiers
+    minelive: MineLive
+    minebackup: Sauvegardes
+    stats: Stats
+    fastdownload: FastDownload
+    tv: Replays
+    maps: Maps
+    hltv: HLTV
+    punkbuster: PunkBuster
+    sale: Commander
+    tasks: Taches
+    history: Historique
+    monitoring: Monitoring
+    mineversion: 'Version Minecraft'
+    whitelist: WhiteList
+    mineop: Opérateurs
+    minebanuser: 'Joueurs bannis'
+    minebanip: 'IPs bannies'
+    mineconfig: Paramètres
+    srcdsmotd: 'Message de bienvenue'
+    srcdsworkshop: Workshop
+    srcdsplugins: 'Installation plugins'
+    forum: Forums
+    csgolivemap: LiveMap
+    srcds_fps: 'Stats FPS serveur'
+    config_general: 'Config Générale'
+    directory: 'Promouvoir mon serveur'
+    ebot: eBot
+    arkworkshop: Workshop
+console:
+    title: Console
+    auto: 'Défilement automatique'
+    execute: Exécuter
+    help: 'Entrez la commande à éxécuter, ex: help'
+    clear: Clear
+overview:
+    title: Overview
+    address: Adresse
+    game: Jeu
+    list: 'Liste des joueurs'
+    player: Joueur(s)
+    widget:
+        map: Carte
+        plugins: Plugins
+        version: Version
+        gametype: Type
+header:
+    expiration: 'Avant expiration'
+    password: 'Mot de passe'
+    player: Joueur(s)
+    offline: 'HORS LIGNE'
+    day: jours
+    ram: 'Mémoire (RAM)'
+    cpu: 'Processeur (CPU)'
+    fps: 'FPS Serveur'
+confirm:
+    message: 'Êtes-vous sûr de vouloir exécuter cette action ?'
+    backup:
+        message: 'Êtes-vous sûr de vouloir exécuter cette action ?'
+    map: 'Êtes-vous sûr de vouloir installer cette carte ?'
+list:
+    my_products: 'Mes produits'
+actions:
+    update: Update
+    restart: Restart
+    restart_force: 'Force restart'
+    start: Start
+    stop: Stop
+    in_progress: 'Action en cours...'
+btn:
+    stop: Stop
+    start: Start
+    restart: Restart
+forums:
+    new: 'Besoin d''aide ou juste envie de présenter votre serveur à la communauté ? Nos nouveaux forums sont en lignes'
+    go: 'Accéder aux forums'
+csgo:
+    livemap:
+        brand1: 'Accédez à la LiveMap 2D de votre serveur.'
+        brand2: 'La LiveMap vous permet de suivre en direct le déroulement de la partie se déroulant sur votre serveur.'
+srcds:
+    workshop_disabled: 'Vous n''avez pas spécifié de clé API valide pour STEAM Community, le workshop est pour l''instant désactivé.'
+    map_not_found: 'Attention: la map de démarrage que vous avez sélectionné n''existe pas, votre serveur risque de ne pas démarrer. Veuillez corriger la map de démarrage !'
+    need_update: 'Votre serveur à besoin d''être mis à jour. Pour cela, cliquez sur le bouton ''Mettre à jour''.'
+ddos:
+    in_progress: 'Attaque DDoS en cours...'
+    nothing: 'Aucune attaque DDOS'
+monitoring:
+    stop: 'Votre serveur a été automatiquement arrêté par le monitoring à cause d''une surconsommation CPU/processeur constante. Vérifiez la configuration/personnalisation du serveur pour corriger le problème.'
