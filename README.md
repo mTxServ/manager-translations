@@ -1,6 +1,6 @@
 # Game Server Panel Translations
 
-![shields.io progress badge (3 of 9 languages translated)](https://img.shields.io/badge/translated-1%20of%209-%2309b3af?style=for-the-badge)
+![shields.io progress badge (3 of 9 languages translated)](https://img.shields.io/badge/translated-3%20of%209-%2309b3af?style=for-the-badge)
 
 This repository contains all translations used on [mTxServ.com](https://mtxserv.com) for the management panel (Minecraft, ARK, GMod, Rust, Valheim, VPS, Mumble, Teamspeak, etc.).
 
