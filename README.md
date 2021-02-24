@@ -23,15 +23,18 @@ Thank you so much for helping out!
 
 ## Translation Progress
 
-- [ ] ar - Arabic
-- [ ] de - German
-- [x] en - English
-- [ ] es - Spanish
-- [x] fr - French
-- [x] it - Italian
-- [ ] pl - Polish
-- [ ] pt - Portuguese
-- [ ] ru - Russian
+| Complete | Language |
+|-------|---|
+|  100% | French |
+|  100% | English |
+|   99% | Italian |
+|   0%  | Arabic |
+|   0%  | German |
+|   0%  | Spanish |
+|   0%  | Polish |
+|   0%  | Polski |
+|   0%  | Português |
+|   0%  | Russian |
 
 # Contributors
 
