@@ -2,7 +2,7 @@
 
 This repository contains all translations used on [mTxServ.com](https://mtxserv.com) for the management panel (Minecraft, ARK, GMod, Rust, Valheim, VPS, Mumble, Teamspeak, etc.).
 
-Feel free to contribute!
+Feel free to contribute and submit your [pull request](https://github.com/mTxServ/manager-translations/pulls)!
 
 # Fully translated
 
