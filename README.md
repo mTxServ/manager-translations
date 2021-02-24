@@ -12,6 +12,8 @@ Language files do not need to be complete, but all should extend at least one ot
 
 Updates to this repository will be integrated into mTxServ in the very next update: major, minor, or patch.
 
+Thank you so much for helping out!
+
 ## How to contribute
 
 1. Checkout this repository
@@ -30,3 +32,8 @@ Updates to this repository will be integrated into mTxServ in the very next upda
 - [ ] pl - Polish
 - [ ] pt - Portuguese
 - [ ] ru - Russian
+
+# Contributors
+
+- [Seb](https://github.com/sdieunidou)
+- Loganniere
