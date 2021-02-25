@@ -1165,3 +1165,5 @@ developer-tools: 'Strumenti per Sviluppatore'
 'Modifier le nom du serveur': 'Modifica il nome del Server'
 'Afficher les joueurs connectés ?': 'Visualizzare i giocatori collegati?'
 'Votre serveur de jeu va expirer': 'Il tuo server scadrà'
+valheim: Valheim
+rust: Rust
