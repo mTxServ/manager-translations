@@ -1,7 +1,7 @@
 'Aller au dashboard': 'Go to console'
 'Tutoriels ARK': 'ARK Tutorials'
 'Tutoriels Garry''s Mod': 'Garry''s Mod Tutorials'
-'Base de connaissances': Knowledgebase
+'Base de connaissances': Knowledge base
 'Félicitation, la configuration rapide de votre serveur est terminée !': 'Congratulations, your server is ready!'
 'Mods ARK': 'ARK Mods'
 'Editer le collaborateur': 'Edit collaborator'
@@ -12,7 +12,7 @@ GAME_GRANTING_COLLABORATORS: Collaborators
 GAME_GRANTING_GAME_FILES: 'Files (WebFTP + FTP server)'
 'Impossible de démarrer le serveur, carte non existante:': 'Can''t start server, map not available:'
 'Vous n''avez aucun produit actif.': 'You have no active product.'
-'La fonction "Mettre à jour" effectue la mise à jour du serveur + la mise à jour de tous les mods actifs.': 'The "Update" feature will update the server + mods.'
+'La fonction "Mettre à jour" effectue la mise à jour du serveur + la mise à jour de tous les mods actifs.': 'The "Update" feature will update both the servers and the mods.'
 'Vous n''avez aucun mod workshop actif.': 'You don''t have any active workshop mods.'
 'Le mot de passe administrateur doit être composé au maximum de 10 caractères et ne doit pas contenir de caractères spéciaux.': 'The administrator password must contain a maximum of 10 characters and must not contain any special characters.'
 HOSTING_GRANTING_DOMAIN: 'Manage domain'
@@ -61,7 +61,7 @@ First: 'First page'
 'Votre serveur doit être online pour pouvoir installer le plugin.': 'Your server must be online to install the plugin.'
 'Votre serveur doit être online pour pouvoir installer un plugin Bukkit.': 'Your server must be online to install a plugin.'
 Installé: Installed
-'Bukkit n''est pas présent sur votre serveur, veuillez l''installer pour avoir accès aux plugins Bukkit.': 'Bukkit is not present on your server, please install Bukkit to access Bukkit plugins.'
+'Bukkit n''est pas présent sur votre serveur, veuillez l''installer pour avoir accès aux plugins Bukkit.': 'Bukkit is not enabled on your server, please install Bukkit to access Bukkit plugins.'
 'Votre version Bukkit': 'Your version'
 'Une version de ce plugin est déjà présente sur votre serveur.': 'Another version of this plugin is already installed on your server.'
 'Version Bukkit': 'Minecraft version'
@@ -70,7 +70,7 @@ Spectator: Spectator
 Adventure: Adventure
 Survival: Survival
 Creative: Creative
-'Un Discord est à votre disposition, pour échanger entre membres de mTxServ.': 'A Discord is available for communicating with other mTxServ members.'
+'Un Discord est à votre disposition, pour échanger entre membres de mTxServ.': 'Our Discord is available to discuss with other mTxServ members.'
 'N''attendez plus, rejoignez la communauté !': 'Don''t wait any longer, join the community!'
 'Multiplicateur de l''utilisation de l''oxygène sous l''eau par les joueurs': 'Multiplier of oxygen use under water by players'
 'Affiche les dégats au dessus de votre cible': 'Display the damage to your target'
