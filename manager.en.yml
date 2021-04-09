@@ -58,8 +58,8 @@ Next: Next
 Last: 'Last page'
 First: 'First page'
 'Aucun plugin.': 'No results found'
-'Votre serveur doit être online pour pouvoir installer le plugin.': 'Your server must be online to install the plugin.'
-'Votre serveur doit être online pour pouvoir installer un plugin Bukkit.': 'Your server must be online to install a plugin.'
+'Votre serveur doit être online pour pouvoir installer le plugin.': 'Your server must be online in order to install the plugin.'
+'Votre serveur doit être online pour pouvoir installer un plugin Bukkit.': 'Your server must be online in order to install a plugin.'
 Installé: Installed
 'Bukkit n''est pas présent sur votre serveur, veuillez l''installer pour avoir accès aux plugins Bukkit.': 'Bukkit is not enabled on your server, please install Bukkit to access Bukkit plugins.'
 'Votre version Bukkit': 'Your version'
@@ -109,9 +109,9 @@ Bot Discord: Discord Bot
 'Pour changer le prefix des commandes:': 'To change command prefixes:'
 'Pour voir la configuration du bot:': 'To see BOT configuration:'
 'Toutes les variables peuvent être modifiées (par exemple pour désactiver certaines commandes).': 'All variables can be edited (for example, to disable some commands).'
-'Pour autoriser les utilisateurs ayant un rôle particulier à avoir accès aux commands admins:': 'To allow users having a certain role to have access to admin commands:'
+'Pour autoriser les utilisateurs ayant un rôle particulier à avoir accès aux commands admins:': 'To allow users having a certain role to gain access to admin commands:'
 Utilisation: Usage
-'Pour autoriser les utilisateurs ayant un rôle particulier à avoir accès aux commandes admins:': 'To allow users having a certain role to have access to admin commands:'
+'Pour autoriser les utilisateurs ayant un rôle particulier à avoir accès aux commandes admins:': 'To allow users having a certain role to gain access to admin commands:'
 Community: Community
 'Votre espace ''Community'' sera activé sous 5 minutes max.': 'Your ''Community'' page will be enabled within 5 minutes.'
 'L''espace Community, disponible avec votre serveur de jeu, vous permet de:': 'The Community page, available for your game server, allows you to:'
@@ -162,7 +162,7 @@ Community: Community
 'Contenu de jeu (css, hl2, .)': 'Game content (css, hl2, etc.)'
 'Configurez en quelques clics les contenus chargés via le fichier mount.cfg de votre serveur.': 'With a few clicks, configure the game''s content loaded with your server''s mount.cfg file.'
 'Contenu de jeu (css, .)': 'Game content (css, etc.)'
-'Attention: notre technologie est une aide à la sécurisation de son serveur et n''est pas infaillible. Le meilleur moyen de ne pas avoir de backdoor est d''éviter les addons leaks.': 'Warning: Our technology is an aid to the security of its server and is not foolproof. The best way to not have a backdoor is to avoid Addons leaks.'
+'Attention: notre technologie est une aide à la sécurisation de son serveur et n''est pas infaillible. Le meilleur moyen de ne pas avoir de backdoor est d''éviter les addons leaks.': 'Warning: Our technology is an aid to the security of its server and is not foolproof. The best way to not have a backdoor is to avoid Addon leaks.'
 list.my_products: 'My products'
 list.title.game: 'Game Servers'
 list.title.voice: 'Voice Servers'
@@ -264,7 +264,7 @@ Description: Description
 'Le mot de passe doit contenir au moins 8 caractères avec au minimum une majuscule, une minuscule et un chiffre.': 'The password must at least contain 8 characters with at least 1 lower case letter, 1 upper case letter, and one number.'
 'Entrez le nouveau mot de passe': 'Enter the new password.'
 'Le mot de passe a bien été changé': 'The password has been updated.'
-'Pour vous conformer à notre stratégie de sécurité, vous devez utiliser un mot de passe suffisamment puissant.': 'To apply the security policy, you must use a strong-enough password.'
+'Pour vous conformer à notre stratégie de sécurité, vous devez utiliser un mot de passe suffisamment puissant.': 'To apply the security policy, you must use a strong enough password.'
 'Nouveau mot de passe FTP': 'New FTP password'
 'Mot de passe ftp modifié': 'FTP password updated'
 'Mot de passe sql modifié': 'SQL password updated'
@@ -321,7 +321,7 @@ Mumble: Mumble
 Console: Console
 Rafraichir: Refresh server status
 'Vous pouvez changer l''offre de votre serveur, la date d''expiration du contrat sera automatiquement recalculée au propata.': 'You can change your server''s offer; the expiration date will be automatically calculated.'
-'Attention, vous ne pouvez effectuer qu''un seul changement d''offre tous les 15 jours.': 'Beware, you can only change your offer every 15 days.'
+'Attention, vous ne pouvez effectuer qu''un seul changement d''offre tous les 15 jours.': 'Warning, you can only change your offer once every 15 days.'
 'Modifier mes slots': 'Edit my slots'
 'Ce produit ne peut pas être modifié.': 'This product cannot be modified.'
 'Vous ne pouvez-pas faire de changement de slots avant le %nextAllowedChange%.': 'You cannot change your slots before the %nextAllowedChange%.'
