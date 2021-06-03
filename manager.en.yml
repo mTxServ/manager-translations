@@ -13,7 +13,7 @@ GAME_GRANTING_GAME_FILES: 'Files (WebFTP + FTP server)'
 'Impossible de démarrer le serveur, carte non existante:': 'Can''t start server, map not available:'
 'Vous n''avez aucun produit actif.': 'You have no active product.'
 'La fonction "Mettre à jour" effectue la mise à jour du serveur + la mise à jour de tous les mods actifs.': 'The "Update" feature will update the server + mods.'
-'Vous n''avez aucun mod workshop actif.': 'You don''t have any active workshop mods.'
+'Vous n''avez aucun mod workshop actif.': 'You don''t have any active workshop mod.'
 'Le mot de passe administrateur doit être composé au maximum de 10 caractères et ne doit pas contenir de caractères spéciaux.': 'The administrator password must contain a maximum of 10 characters and must not contain any special characters.'
 HOSTING_GRANTING_DOMAIN: 'Manage domain'
 HOSTING_GRANTING_FTP: 'FTP server'
@@ -191,7 +191,7 @@ PHPMyAdmin: PHPMyAdmin
 'Mot de passe': Password
 Modifier: Update
 Teamspeak: Teamspeak
-'Changer mot de passe': 'Change password'
+'Changer mot de passe': 'Password'
 'Espace disque utilisé': 'Disk used'
 Aucun: n/a
 'Nom de domaine': Domain
@@ -227,7 +227,7 @@ Description: Description
 'Vous y trouverez de nombreux tutoriaux vous aidant à la gestion de vos services.': 'You will find many tutorials to help you to manage your services.'
 'La communauté d''entraide mTxServ est réunie autour d''un forum d''échanges': 'The mTxServ community is united on a forum board.'
 'N''hésitez pas à y participer, vous trouverez toute l''aide que vous souhaitez !': 'Don''t hesitate to participate; you''ll find the help you need!'
-'Forum communautaire': 'Community forum'
+'Forum communautaire': 'Forums'
 'Notre équipe est à votre disposition pour toute demande d''aide ou de renseignement.': 'Our staff is at your disposal if you need help or have a question.'
 'N''hésitez pas à consulter la doc et le forum d''entraide avant de nous contacter :)': 'Please check the documentation and our forum before contacting us. :)'
 'Votre hébergement va expirer': 'Your hosting will expire.'
@@ -261,7 +261,7 @@ Description: Description
 'Domaine personnalisé supprimé': 'Domain deleted'
 'Ajout domaine personnalisé': 'Link domain name'
 'Nouveau mot de passe MySQL': 'New MySQL password'
-'Le mot de passe doit contenir au moins 8 caractères avec au minimum une majuscule, une minuscule et un chiffre.': 'The password must at least contain 8 characters with at least 1 lower case letter, 1 upper case letter, and one number.'
+'Le mot de passe doit contenir au moins 8 caractères avec au minimum une majuscule, une minuscule et un chiffre.': 'The password must at least contain 8 characters.'
 'Entrez le nouveau mot de passe': 'Enter the new password.'
 'Le mot de passe a bien été changé': 'The password has been updated.'
 'Pour vous conformer à notre stratégie de sécurité, vous devez utiliser un mot de passe suffisamment puissant.': 'To apply the security policy, you must use a strong-enough password.'
@@ -297,7 +297,7 @@ Arrêter: Stop
 'Le token a bien été supprimé.': 'The token has been deleted'
 Réinstallation: Reinstall
 'Réinstaller le serveur': 'Reinstall the server'
-'En cas de problème avec votre serveur vocal, vous pouvez demander une réinstallation de celui-ci.': 'To help solve any problem on your voice server, you can request a reinstall.'
+'En cas de problème avec votre serveur vocal, vous pouvez demander une réinstallation de celui-ci.': 'To help solve any problem on your server, you can request a reinstall.'
 'Attention, cette action est irréversible et entrainera la perte des données de votre serveur vocal.': 'Beware, this action cannot be canceled and will result in data loss.'
 'Réinstallation du serveur': 'Reinstall the server'
 'Êtes-vous sûr de vouloir réinstaller ce serveur ?': 'Are you sure you want to reinstall this server?'
@@ -322,12 +322,12 @@ Console: Console
 Rafraichir: Refresh server status
 'Vous pouvez changer l''offre de votre serveur, la date d''expiration du contrat sera automatiquement recalculée au propata.': 'You can change your server''s offer; the expiration date will be automatically calculated.'
 'Attention, vous ne pouvez effectuer qu''un seul changement d''offre tous les 15 jours.': 'Beware, you can only change your offer every 15 days.'
-'Modifier mes slots': 'Edit my slots'
+Modifier mes slots: 'Edit my slots'
 'Ce produit ne peut pas être modifié.': 'This product cannot be modified.'
 'Vous ne pouvez-pas faire de changement de slots avant le %nextAllowedChange%.': 'You cannot change your slots before the %nextAllowedChange%.'
 'Vous pouvez changer l''offre de votre serveur et la date d''expiration du contrat sera automatiquement recalculée au propata..': 'You can change your server''s offer; the expiration date will be automatically calculated.'
 'Combien de slots voulez-vous ?': 'How many slots would you like?'
-'Le serveur expire actuellement dans': 'The server will expire in'
+'Le serveur expire actuellement dans': 'Currently, the server will expire in'
 'Après changement, le serveur expirera dans': 'After changing, the server will expire in'
 'Votre compte sera recrédité de': 'Your account will be credited.'
 'Le propriétaire du serveur Teamspeak est le seul à pouvoir gérer les collaborateurs.': 'The TeamSpeak server owner is the only one who can add admins.'
@@ -363,7 +363,7 @@ Rafraichir: Refresh server status
 'Ce mot de passe permet de vous connnecter en administrateur sur votre serveur Mumble, associé à l''utilisateur SuperUser.': 'This password allows you to connect as an administrator on your Mumble, associated with the user SuperUser.'
 'Indiquez le nouveau mot de passe administrateur': 'Enter the new administrator password'
 'Modifier le mot de passe': 'Edit the password'
-'Le mot de passe doit contenir 8 caractères avec au minimum une majuscule, une minuscule et un chiffre.': 'The password must contain at least 8 characters with at least 1 upper case letter, 1 lower case letter, and 1 number.'
+'Le mot de passe doit contenir 8 caractères avec au minimum une majuscule, une minuscule et un chiffre.': 'The password must contain at least 8 characters.'
 'Le mot de passe admin a été modifié.': 'The admin password has been updated.'
 'Indiquez le nouveau mot de passe': 'Enter the new password'
 'Nouveau mot de passe d''accès au serveur': 'New password'
@@ -387,8 +387,8 @@ Info: Info
 'Tâches planifiées': 'Scheduled tasks'
 'Fichiers & FTP': 'Files & FTP'
 Performances: Performances
-Sauvegardes: Backups
-'MySQL & Site': 'MySQL & Website'
+Sauvegardes: Backup
+'MySQL & Site': 'MySQL & PHP'
 Minecraft: Minecraft
 'Version & Modpack': 'Version, Modpacks'
 MineLive: MineLive
@@ -397,7 +397,7 @@ Whitelist: Whitelist
 'Joueurs bannis': 'Banned players'
 'IP bannies': 'IP banned'
 'Historique API': 'API history'
-'Restaurer un serveur': 'Restore Expired Server'
+'Restaurer un serveur': 'Restore expired server'
 'Copier la console': 'Copy console'
 'Entrez la commande à éxécuter': 'Enter the command to execute'
 Exécuter: Execute
@@ -646,12 +646,12 @@ Fin: End
 'MySQL & Site Internet': 'MySQL & website'
 'Nous mettons à votre disposition un hébergement web avec votre serveur ainsi qu''une base de donnée MySQL.': 'We provide you with a web hosting with your server and a MySQL database.'
 'Pour activer votre hébergement, veuillez commander gratuitement un nouvel hébergement sur notre site internet :': 'To activate your hosting, please order a free new web hosting on our website:'
-'Commander mon hébergement gratuit': 'Checkout free web hosting'
+'Commander mon hébergement gratuit': 'Get my free MySQL + PHP hosting'
 'Attention, cette action est irréversible et entrainera la perte des données de votre serveur.': 'Beware, this action can''t be canceled and your data will be deleted.'
 'Une action est en cours sur votre serveur, veuillez attendre la fin de son éxécution avant de pouvoir réinstaller le serveur.': 'An action is taking place on your server Please wait for it to finish before reinstalling the server.'
 'En cas de problème avec votre serveur, vous pouvez demander une réinstallation de celui-ci.': 'If you have a problem with your server, you can reinstall it.'
 'Le serveur est en cours de réinstallation': 'The server is being reinstalled.'
-'Êtes-vous sûr de vouloir supprimer ce compte FTP ?': 'Are you sure you want to delete this FTP account?'
+'Êtes-vous sûr de vouloir supprimer ce compte FTP ?': 'Are you sure you want to delete this account?'
 'Supprimer le compte FTP': 'Delete the FTP account'
 'Supprimer "%account%"': 'Delete "%account%"'
 'Le compte a bien été supprimé': 'The account has been deleted.'
@@ -661,10 +661,9 @@ Fin: End
 'Pour cela, choississez ci-dessous le monde que vous souhaitez restaurer :': 'To do this, just choose the world below that you wish to restore:'
 'Liste des sauvegardes "%world%"': 'Backups list "%world%"'
 'Liste des sauvegardes du monde %world% :': 'Backups list :'
-'Restaurer une sauvegarde': 'Restore a backup'
+'Restaurer une sauvegarde': 'Restore the backup'
 'Etes-vous sûr de vouloir restaurer cette sauvegarde ?': 'Are you sure you want to restore this backup?'
 Sauvegarde: Backup
-'Restaurer la sauvegarde': 'Restore a backup'
 'Une action est en cours sur votre serveur, veuillez attendre la fin de son éxécution avant de pouvoir restaurer une sauvegarde.': 'An action is in progress, please wait for it to finish.'
 'Changement password FTP': 'Change FTP password'
 'Suppresion compte FTP': 'Delete FTP account'
@@ -679,10 +678,10 @@ Sauvegarde: Backup
 'Ajouter un mod': 'Add mod'
 'Nom du mod': 'Mod name'
 'Aucun mod n''est actif sur le serveur.': 'No active mod on the server'
-'Veuillez indiquer le nom du module :': 'Please enter the module name:'
-'Nom du module': 'Module name'
+'Veuillez indiquer le nom du module :': 'Please enter the mod name:'
+'Nom du module': 'Mod name'
 'Ajouter le module': 'Add mod'
-'Le module a bien été ajouté et sera pris en compte au prochain reboot du serveur.': 'The module has been added and will be enabled at the next reboot.'
+'Le module a bien été ajouté et sera pris en compte au prochain reboot du serveur.': 'The mod has been added and will be enabled at the next reboot.'
 'Supprimer %modName%': 'Delete %modName%'
 'Êtes-vous sûr de vouloir supprimer le mod %modName% ?': 'Are you sure you want to delete the mod %modName%?'
 'Le mod ne sera plus pris en compte au prochain reboot du serveur.': 'The mod will not be active at the next reboot.'
@@ -903,7 +902,7 @@ wizard.gmod.more: 'And now? Look in our help center.'
 'Récupérer la sauvegarde dans le dossier /backup, sans remplacer votre serveur actuel': 'Recover the backup to the /backup folder without replacing your current server'
 'Tutoriel: créer un rapport de performances': 'How to make a timings report'
 minecraft.timing.howto: 'Diagnose problems of a Minecraft is not always easy, but there are a few simple tools that allows to identify easily the origin of performances problems, the report system called "timings".'
-layout.extend.warning2: Did you know ? Get 10% Off on a 3-month extend.
+layout.extend.warning2: Did you know ? Get 15% Off on a 12-month extend.
 layout.extend.warning1: Be careful, your server will expire. To extend your contract, go to the "Renew" section.
 uihelp.dashboard.console: "Live console allows you to view the log output of the game server in real time"
 uihelp.dashboard.cvar: "Send commands to server (ex: <code>help</code>)."
@@ -1000,7 +999,7 @@ Recommandé: Recommended
 Password: Password
 Kill: Force stop
 Port Admin (RCON): RCON
-Analyser le log: Analyze log
+Analyser le log: Diagnostics
 Solutions: Solutions
 Des erreurs peuvent être corrigées!: Errors detected!
 Aucune suggestion suite à l'analyse du log.: There are no suggestions after analysis of the log.
@@ -1014,9 +1013,9 @@ Dernière modification: Latest update
 Vos modifications seront écrasées: Your changes will be overwritten
 en cours de préparation: in preparation
 Téléchargements en cours: Download in progress
-Sélectionnez les fichiers à envoyer: Select the files
+Sélectionnez les fichiers à envoyer: Select files
 Uploader: Upload
-Les fichiers seront envoyés dans le répertoire: The files will be sent to the directory
+Les fichiers seront envoyés dans le répertoire: Files will be sent to
 Renommer "%path%": Rename "%path%"
 Êtes-vous sûr de vouloir renommer ce dossier ?: Are you sure you want to rename this folder?
 Êtes-vous sûr de vouloir renommer ce fichier ?: Are you sure you want to rename this file?
@@ -1165,8 +1164,32 @@ Versions & modpacks: Modpacks & versions
 Cherchez un modpack, parcourez la liste des versions minecraft avec les commandes du bot.: Search for a modpack, browse the list of minecraft server versions with the bot commands.
 Inviter le bot: Invite Bot
 Translate me!: Translate me!
-Seed de la carte (map): Seed (map)
+Seed de la carte (map): Seed (map) / Name of world
 You need the modded client version to be able to connect to the server. A HarmonyX Mod aimed at improving the gameplay quality of Valheim.: You need the modded client version to be able to connect to the server. A HarmonyX Mod aimed at improving the gameplay quality of Valheim.
 En cours de traduction: Work in progress
 valheim: Valheim
 rust: Rust
+Fuseau Horaire: Timezone
+Produits: Products
+Déconnexion: Logout
+Factures: Invoices
+Mes tokens: Tokens
+Mon compte: Account
+Panel de gestion: Control panel
+Ajouter: Add
+Aller sur PHPMyAdmin: Open PHPMyAdmin
+Firewall: Firewall
+Warning: Warning
+Vous n'avez aucun serveur expiré à restaurer.: No expired servers to restore.
+Exemple: Example
+Port SFTP: SFTP Port
+Commande: Command
+Vous n'avez aucune sauvegarde pour l'instant.: You have no backup.
+Stratégie de restauration: Strategy
+Le backup est en cours de restauration.: The backup is being restored, please wait.
+Célèbre mode de jeu policiers/civils en version 4.4r4: Police/Civilian game mode in version 4.4r4
+Célèbre mode de jeu policiers/civils en version actualisée.: Police/civilian game mode in updated version.
+Mode de jeu de survie très populaire où les prisionniers sont envoyés sur une île.: Very popular survival game mode where prisoners are sent to an island.
+Directories: Directories
+Files: Files
+L'option Optimisation Automatique est activée dans l'onglet Configuration. Vos modifications seront écrasées au prochain redémarrage du serveur.: Automatic Optimization is enabled in the "Configuration" tab. Your changes will be overwritten the next time you restart the server.
