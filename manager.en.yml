@@ -1193,3 +1193,15 @@ Mode de jeu de survie très populaire où les prisionniers sont envoyés sur une
 Directories: Directories
 Files: Files
 L'option Optimisation Automatique est activée dans l'onglet Configuration. Vos modifications seront écrasées au prochain redémarrage du serveur.: Automatic Optimization is enabled in the "Configuration" tab. Your changes will be overwritten the next time you restart the server.
+Enable rcon output logs.: Enable rcon output logs.
+Enable advanced logs.: Enable advanced logs.
+Survival of the Fittest servers can launch with this commandline option to output a dated log file to \Saved folder, which will contain a timestamped kill & winners log listing steam id, steam name, character name, etc. Handy for automatic Tournament records.: Survival of the Fittest servers can launch with this commandline option to output a dated log file to \Saved folder, which will contain a timestamped kill & winners log listing steam id, steam name, character name, etc. Handy for automatic Tournament records.
+Launch with this command to destroy all wild creatures on a startup. (this will only destroy wild creatures that are NOT currently being tamed).: Launch with this command to destroy all wild creatures on a startup. (this will only destroy wild creatures that are NOT currently being tamed).
+Force Flyer dinos to be allowed into caves (Flyers able to go into caves by default on custom maps).: Force Flyer dinos to be allowed into caves (Flyers able to go into caves by default on custom maps).
+Run server without BattleEye.: Run server without BattleEye.
+Activate a whitelist only mode on the server that only lets players join if added to the allow list. This option uses "PlayersJoinNoCheckList.txt" to allow people to join but not give them cheats.: Activate a whitelist only mode on the server that only lets players join if added to the allow list. This option uses "PlayersJoinNoCheckList.txt" to allow people to join but not give them cheats.
+Enables auto destruction of old structures. Timer can be adjusted with AutoDestroyOldStructuresMultiplier: Enables auto destruction of old structures. Timer can be adjusted with AutoDestroyOldStructuresMultiplier
+Enables Vivox on Steam only servers. Ddefault for EPIC servers can be enabled for Steam server.: Enables Vivox on Steam only servers. Ddefault for EPIC servers can be enabled for Steam server.
+Enables Crossplay (between EPIC and Steam) on Dedicated Server.: Enables Crossplay (between EPIC and Steam) on Dedicated Server.
+"Set language used to run the server (ex: en, fr).": "Set language used to run the server (ex: en, fr)."
+Enables a specified event. Only one can be specified and active at a time (Easter|Arkaeology|ExtinctionChronicles|WinterWonderland|vday|Summer|FearEvolved|TurkeyTrial|birthday).: Enables a specified event. Only one can be specified and active at a time (Easter|Arkaeology|ExtinctionChronicles|WinterWonderland|vday|Summer|FearEvolved|TurkeyTrial|birthday).
