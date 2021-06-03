@@ -177,7 +177,7 @@ list.my_products.listing: 'Liste des produits'
 Dashboard: Dashboard
 Domaine: Domaine
 Collaborateurs: Collaborateurs
-Prolonger: Prolonger mon serveur
+Prolonger: Prolonger
 Support: Support
 '{0} Expire dans %expireAt% jour|[1,Inf] Expire dans %expireAt% jours': '{0} Expire dans %expireAt% jour|[1,Inf] Expire dans %expireAt% jours'
 'FAQ et tutoriels': 'FAQ et tutoriels'
@@ -208,8 +208,8 @@ Annuler: Annuler
 'Une erreur est survenue.. :(': 'Une erreur est survenue.. :('
 'Le collaborateur a bien été ajouté.': 'Le collaborateur a bien été ajouté.'
 Succès: Succès
-'Nom de l''utilisateur': 'Nom de l''utilisateur'
-'Adresse e-mail': 'Adresse e-mail'
+'Nom de l''utilisateur': 'Utilisateur'
+'Adresse e-mail': 'E-mail'
 Utilisateur: Utilisateur
 'Êtes-vous sûr de vouloir supprimer ce collaborateur ?': 'Êtes-vous sûr de vouloir supprimer ce collaborateur ?'
 'Supprimer le collaborateur': 'Supprimer le collaborateur'
@@ -234,8 +234,8 @@ Hébergement: Hébergement
 'Supprimer le domaine': 'Supprimer le domaine'
 'Supprimer "%domain%"': 'Supprimer "%domain%"'
 'Le nom de domaine a bien été supprimé.': 'Le nom de domaine a bien été supprimé.'
-'Base de données': 'Base de données'
-'Changer mot de passe': 'Changer mot de passe'
+'Base de données': 'MySQL'
+'Changer mot de passe': 'Mot de passe'
 PHPMyAdmin: PHPMyAdmin
 'Espace disque utilisé': 'Espace disque utilisé'
 'Dernières actions effectuées': 'Dernières actions effectuées'
@@ -243,7 +243,7 @@ PHPMyAdmin: PHPMyAdmin
 'Ajout domaine personnalisé': 'Ajout domaine personnalisé'
 'Nouveau mot de passe MySQL': 'Nouveau mot de passe MySQL'
 'Mot de passe': 'Mot de passe'
-'Le mot de passe doit contenir au moins 8 caractères avec au minimum une majuscule, une minuscule et un chiffre.': 'Le mot de passe doit contenir au moins 8 caractères avec au minimum une majuscule, une minuscule et un chiffre.'
+'Le mot de passe doit contenir au moins 8 caractères avec au minimum une majuscule, une minuscule et un chiffre.': 'Le mot de passe doit contenir au moins 8 caractères.'
 Modifier: Modifier
 'Entrez le nouveau mot de passe': 'Entrez le nouveau mot de passe'
 'Le mot de passe a bien été changé': 'Le mot de passe a bien été changé'
@@ -290,8 +290,8 @@ Description: Description
 'Le token a bien été supprimé.': 'Le token a bien été supprimé.'
 Réinstallation: Réinstallation
 'Réinstaller le serveur': 'Réinstaller le serveur'
-'En cas de problème avec votre serveur vocal, vous pouvez demander une réinstallation de celui-ci.': 'En cas de problème avec votre serveur vocal, vous pouvez demander une réinstallation de celui-ci.'
-'Attention, cette action est irréversible et entrainera la perte des données de votre serveur vocal.': 'Attention, cette action est irréversible et entrainera la perte des données de votre serveur vocal.'
+'En cas de problème avec votre serveur vocal, vous pouvez demander une réinstallation de celui-ci.': 'En cas de problème avec votre serveur, vous pouvez demander une réinstallation de celui-ci.'
+'Attention, cette action est irréversible et entrainera la perte des données de votre serveur vocal.': 'Attention, cette action est irréversible et entrainera la perte des données.'
 'Réinstallation du serveur': 'Réinstallation du serveur'
 'Êtes-vous sûr de vouloir réinstaller ce serveur ?': 'Êtes-vous sûr de vouloir réinstaller ce serveur ?'
 'Le serveur Teamspeak est en cours de réinstallation': 'Le serveur Teamspeak est en cours de réinstallation'
@@ -362,7 +362,7 @@ Rafraichir: Rafraîchir le statut du serveur
 'Ce mot de passe permet de vous connnecter en administrateur sur votre serveur Mumble, associé à l''utilisateur SuperUser.': 'Ce mot de passe permet de vous connnecter en administrateur sur votre serveur Mumble, associé à l''utilisateur SuperUser.'
 'Indiquez le nouveau mot de passe administrateur': 'Indiquez le nouveau mot de passe administrateur'
 'Modifier le mot de passe': 'Modifier le mot de passe'
-'Le mot de passe doit contenir 8 caractères avec au minimum une majuscule, une minuscule et un chiffre.': 'Le mot de passe doit contenir 8 caractères avec au minimum une majuscule, une minuscule et un chiffre.'
+'Le mot de passe doit contenir 8 caractères avec au minimum une majuscule, une minuscule et un chiffre.': 'Le mot de passe doit contenir 8 caractères.'
 'Le mot de passe admin a été modifié.': 'Le mot de passe admin a été modifié.'
 'Indiquez le nouveau mot de passe': 'Indiquez le nouveau mot de passe'
 'Nouveau mot de passe d''accès au serveur': 'Nouveau mot de passe d''accès au serveur'
@@ -387,7 +387,7 @@ Info: Info
 'Fichiers & FTP': 'Fichiers & FTP'
 Performances: Performances
 Sauvegardes: Sauvegardes
-'MySQL & Site': 'MySQL & Site'
+'MySQL & Site': 'MySQL & PHP'
 Minecraft: Minecraft
 'Version & Modpack': 'Version, Modpacks'
 MineLive: MineLive
@@ -416,7 +416,7 @@ eBot: eBot
 Joueurs: Joueurs
 'Nous mettons à votre disposition un HLTV pour votre serveur permettant à vos amis de d''observer vos parties en direct.': 'Nous mettons à votre disposition un HLTV pour votre serveur permettant à vos amis de d''observer vos parties en direct.'
 'Adresse du HLTV': 'Adresse du HLTV'
-'Vous pouvez installer en 1 click les plugins listés ci-dessous.': 'Vous pouvez installer en 1 click les plugins listés ci-dessous.'
+'Vous pouvez installer en 1 click les plugins listés ci-dessous.': 'Vous pouvez installer en 1 clic les plugins listés ci-dessous.'
 'Configuration générale': 'Configuration générale'
 'Configuration avancée': 'Configuration avancée'
 'Nombre de joueurs': 'Nombre de joueurs'
@@ -425,12 +425,12 @@ Joueurs: Joueurs
 'Nom de passe admin du serveur': 'Nom de passe admin du serveur'
 'URL de votre site internet': 'URL de votre site internet'
 'URL de l''image bannière': 'URL de l''image bannière'
-'Active / Désactive les radiations sur le serveur': 'Active / Désactive les radiations sur le serveur'
+'Active / Désactive les radiations sur le serveur': 'Activer les radiations sur le serveur?'
 Oui: Oui
-'Active / Désactive les structures de stabilité': 'Active / Désactive les structures de stabilité'
-'Active / Désactive le PVE': 'Active / Désactive le PVE'
-'Active / Désactive le tchat global': 'Active / Désactive le tchat global'
-'Active / Désactive l''anticheat': 'Active / Désactive l''anticheat'
+'Active / Désactive les structures de stabilité': 'Activer les structures de stabilité?'
+'Active / Désactive le PVE': 'Activer le PVE?'
+'Active / Désactive le tchat global': 'Activer le tchat global?'
+'Active / Désactive l''anticheat': 'Activer l''anticheat ?'
 'Seed de la map (défaut: 50000)': 'Seed de la map (défaut: 50000)'
 'Taille de la map (défaut: 3000)': 'Taille de la map (défaut: 3000)'
 'Fréquence entre les backups automatisés en secondes (défaut: 600)': 'Fréquence entre les backups automatisés en secondes (défaut: 600)'
@@ -477,7 +477,7 @@ Action: Action
 'Indiquez l''email du compte mTxServ existant à qui vous souhaitez donner les droits admins': 'Indiquez l''email du compte mTxServ existant à qui vous souhaitez donner les droits admins'
 'No account associated to this email address.': 'Pas de compte associé à cette adresse e-mail.'
 'Envie d''une version/type ou modpack ne faisant pas partie de la liste ci-dessous ? N''hésitez pas à nous le faire savoir sur le support.': 'Envie d''une version/type ou modpack ne faisant pas partie de la liste ci-dessous ? N''hésitez pas à nous le faire savoir sur le support.'
-'Vous pouvez à tout moment changer en 1 click la version installée sur votre serveur Minecraft.': 'Vous pouvez à tout moment changer en 1 click la version installée sur votre serveur Minecraft.'
+'Vous pouvez à tout moment changer en 1 click la version installée sur votre serveur Minecraft.': 'Vous pouvez à tout moment changer en 1 clic la version installée sur votre serveur Minecraft.'
 Type: Type
 Version: Version
 'Version Minecraft': 'Version Minecraft'
@@ -644,7 +644,7 @@ Fin: Fin
 'MySQL & Site Internet': 'MySQL & Site Internet'
 'Nous mettons à votre disposition un hébergement web avec votre serveur ainsi qu''une base de donnée MySQL.': 'Nous mettons à votre disposition un hébergement web avec votre serveur ainsi qu''une base de donnée MySQL.'
 'Pour activer votre hébergement, veuillez commander gratuitement un nouvel hébergement sur notre site internet :': 'Pour activer votre hébergement, veuillez commander gratuitement un nouvel hébergement sur notre site internet :'
-'Commander mon hébergement gratuit': 'Commander mon hébergement gratuit'
+'Commander mon hébergement gratuit': 'Commander mon hébergement MySQL + PHP'
 'Attention, cette action est irréversible et entrainera la perte des données de votre serveur.': 'Attention, cette action est irréversible et entrainera la perte des données de votre serveur.'
 'Une action est en cours sur votre serveur, veuillez attendre la fin de son éxécution avant de pouvoir réinstaller le serveur.': 'Une action est en cours sur votre serveur, veuillez attendre la fin de son éxécution avant de pouvoir réinstaller le serveur.'
 'En cas de problème avec votre serveur, vous pouvez demander une réinstallation de celui-ci.': 'En cas de problème avec votre serveur, vous pouvez demander une réinstallation de celui-ci.'
@@ -659,7 +659,7 @@ Fin: Fin
 'Pour cela, choississez ci-dessous le monde que vous souhaitez restaurer :': 'Pour cela, choississez ci-dessous le monde que vous souhaitez restaurer :'
 'Liste des sauvegardes "%world%"': 'Liste des sauvegardes "%world%"'
 'Liste des sauvegardes du monde %world% :': 'Liste des sauvegardes:'
-'Restaurer une sauvegarde': 'Restaurer une sauvegarde'
+'Restaurer une sauvegarde': 'Restaurer la sauvegarde'
 'Etes-vous sûr de vouloir restaurer cette sauvegarde ?': 'Etes-vous sûr de vouloir restaurer cette sauvegarde ?'
 Sauvegarde: Sauvegarde
 'Restaurer la sauvegarde': 'Restaurer la sauvegarde'
@@ -901,7 +901,7 @@ Remplacer l'intégralité de mon serveur par cette sauvegarde (irréversible): R
 Récupérer la sauvegarde dans le dossier /backup, sans remplacer votre serveur actuel: Récupérer la sauvegarde dans le dossier /backup, sans remplacer votre serveur actuel
 'Tutoriel: créer un rapport de performances': 'Tutoriel: créer un rapport de performances'
 minecraft.timing.howto: "Diagnostiquer les problèmes de ralentissement / lags n'est pas toujours chose aisée, il existe néanmoins un outil pour identifier facilement l''origine de problèmes de performances, le système de rapport 'timings'."
-layout.extend.warning2: Le saviez-vous ? Obtenez 10% de réduction sur toute prolongation d'une durée de 3 mois.
+layout.extend.warning2: Le saviez-vous ? Obtenez 15% de réduction sur toute prolongation d'une durée de 12 mois.
 layout.extend.warning1: Attention, votre serveur va expirer. Pour le prolonger, rendez-vous dans la section "Prolongation".
 uihelp.dashboard.console: "La console affiche en temps réel les logs du serveur permettant d'identifier facilement les erreurs."
 uihelp.dashboard.cvar: "Vous pouvez envoyer des commandes au serveur (ex: <code>help</code>)."
@@ -998,7 +998,7 @@ Recommandé: Recommandé
 Password: Mot de passe
 Kill: Forcer l'arrêt
 Port Admin (RCON): RCON
-Analyser le log: Analyser le log
+Analyser le log: Analyser
 Solutions: Solutions
 Des erreurs peuvent être corrigées!: Des erreurs peuvent être corrigées!
 Aucune suggestion suite à l'analyse du log.: Aucune suggestion suite à l'analyse du log.
@@ -1012,7 +1012,7 @@ Dernière modification: Dernière modification
 Vos modifications seront écrasées: Vos modifications seront écrasées
 en cours de préparation: en cours de préparation
 Téléchargements en cours: Téléchargements en cours
-Sélectionnez les fichiers à envoyer: Sélectionnez les fichiers à envoyer
+Sélectionnez les fichiers à envoyer: Sélectionner les fichiers
 Uploader: Uploader
 Les fichiers seront envoyés dans le répertoire: Les fichiers seront envoyés dans le répertoire
 Renommer "%path%": Renommer "%path%"
@@ -1074,7 +1074,7 @@ not-installed: non installé
 Installation du VPS: Installation du VPS
 'Veuillez sélectionner la distribution de votre choix, à installer sur votre VPS:': 'Veuillez sélectionner la distribution de votre choix, à installer sur votre VPS:'
 Version du système d'exploitation: Version du système d'exploitation
-Version de l'OS: Version de l'OS
+"Version de l'OS": Version de l'OS
 "Confirmer le lancement de l'installation": "Confirmer le lancement de l'installation"
 Configuration du réseau en cours: Configuration du réseau en cours..
 pool-moving: Config réseau en cours
@@ -1091,8 +1091,47 @@ deleteRulePending: Suppression
 createRulePending: Création
 Top Serveurs: Top Serveurs
 Translate me!: Traduisez-moi!
-Seed de la carte (map): Seed de la carte (map)
+Seed de la carte (map): Seed de la carte / Nom de la carte
 You need the modded client version to be able to connect to the server. A HarmonyX Mod aimed at improving the gameplay quality of Valheim.: Vous avez besoin de la version du client modifiée (disponible sur le GitHub officiel du mod) pour pouvoir vous connecter au serveur. Un HarmonyX Mod visant à améliorer la qualité de jeu de Valheim.
 En cours de traduction: En cours de traduction
 valheim: Valheim
 rust: Rust
+Fuseau Horaire: Fuseau Horaire
+Produits: Produits
+Editer: Editer
+Ajouter: Ajouter
+Aller sur PHPMyAdmin: Aller sur PHPMyAdmin
+Restriction Protocol UDP: Restriction Protocol UDP
+Stratégie protection anti-ddos: Stratégie protection anti-ddos
+Ajouter une règle: Ajouter une règle
+"Pour un fonctionnement optimal de la protection DDoS, indiquez les ports et protocols de vos serveurs de jeux:": "Pour un fonctionnement optimal de la protection DDoS, indiquez les ports et protocols de vos serveurs de jeux:"
+Permanente: Permanente
+Automatique: Automatique
+Protocol: Protocol
+Port de départ: Port de départ
+Jusqu'au port: Jusqu'au port
+Etat: Etat
+Aucune règle: Aucune règle
+Firewall: Firewall
+Supprimer la règle: Supprimer la règle
+Êtes-vous sûr de vouloir supprimer cette règle ?: Êtes-vous sûr de vouloir supprimer cette règle ?
+Ajouter la règle: Ajouter la règle
+Modifier la restriction: Modifier la restriction
+Si la restriction UDP est activée, le trafic est autorisé en UDP uniquement sur les règles définies.: Si la restriction UDP est activée, le trafic est autorisé en UDP uniquement sur les règles définies.
+La stratégie 'permanente' offre de meilleurs résultats contres les attaques DDoS, mais nécessite de bien déclarer ses règles firewall.: La stratégie 'permanente' offre de meilleurs résultats contres les attaques DDoS, mais nécessite de bien déclarer ses règles firewall.
+Warning: Attention
+Installation du système en cours, veuillez patienter.: Installation du système en cours, veuillez patienter.
+Configuration du réseau en cours, veuillez patienter.: Configuration du réseau en cours, veuillez patienter.
+Vous n'avez aucun serveur expiré à restaurer.: Vous n'avez aucun serveur expiré à restaurer.
+Exemple: Exemple
+Port SFTP: Port SFTP
+Commande: Commande
+Vous n'avez aucune sauvegarde pour l'instant.: Vous n'avez aucune sauvegarde.
+Stratégie de restauration: Stratégie de restauration
+Le backup est en cours de restauration.: Le backup est en cours de restauration, veuillez patienter.
+Célèbre mode de jeu policiers/civils en version 4.4r4: Célèbre mode de jeu policiers/civils en version 4.4r4
+Célèbre mode de jeu policiers/civils en version actualisée.: Célèbre mode de jeu policiers/civils en version actualisée.
+Mode de jeu de survie très populaire où les prisionniers sont envoyés sur une île.: Mode de jeu de survie très populaire où les prisionniers sont envoyés sur une île.
+Directories: Répertoires
+Files: Fichiers
+L'option Optimisation Automatique est activée dans l'onglet Configuration. Vos modifications seront écrasées au prochain redémarrage du serveur.: L'option Optimisation Automatique est activée dans l'onglet Configuration. Vos modifications seront écrasées au prochain redémarrage du serveur.
