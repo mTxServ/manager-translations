@@ -1146,3 +1146,7 @@ Enables Vivox on Steam only servers. Ddefault for EPIC servers can be enabled fo
 Enables Crossplay (between EPIC and Steam) on Dedicated Server.: Active le Crossplay (entre EPIC et Steam) sur les Serveurs Dédiés.
 "Set language used to run the server (ex: en, fr).": "Définit la langue utilisée pour démarrer le serveur (ex: en, fr)."
 Enables a specified event. Only one can be specified and active at a time (Easter|Arkaeology|ExtinctionChronicles|WinterWonderland|vday|Summer|FearEvolved|TurkeyTrial|birthday).: Active un évènement spécifique. Un seul évènement ne peut être spécifié et actif en même temps (Easter|Arkaeology|ExtinctionChronicles|WinterWonderland|vday|Summer|FearEvolved|TurkeyTrial|birthday).
+Factures: Factures
+Mon compte: Mon compte
+'Mot de passe': Mot de passe
+Déconnexion: Déconnexion
